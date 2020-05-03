@@ -1,0 +1,22 @@
+- name: PARTS★★★★★
+  no: 60118
+  rank: 少尉
+  recipe:
+    - item: マニモオーガBD
+      required: 1
+      safety: true
+    - item: マニモオーガLG
+      required: 1
+      safety: true
+    - item: マニモオーガHD
+      required: 1
+      safety: true
+    - item: マニモオーガAM
+      required: 1
+      safety: true
+    - item: マニモオーガBS
+      required: 1
+      safety: true
+    - item: ビームアーマー
+      required: 1
+      safety: true

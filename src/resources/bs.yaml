@@ -1,0 +1,16 @@
+- name: コスモカイザーBS2
+  no: 40066
+  rank: 中尉
+  recipe:
+    - item: 皇帝の宝玉
+      required: 1
+      safety: false
+    - item: サバスのオーブ
+      required: 1
+      safety: false
+    - item: コスモカイザーBS
+      required: 1
+      safety: false
+    - item: 黄昏のコイン
+      required: 3
+      safety: false

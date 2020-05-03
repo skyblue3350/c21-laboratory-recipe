@@ -1,0 +1,64 @@
+- name: コスモカイザーHD2
+  no: 20066
+  rank: 中尉
+  recipe:
+    - item: 皇帝の宝玉
+      required: 1
+      safety: false
+    - item: サバスのオーブ
+      required: 1
+      safety: false
+    - item: コスモカイザーHD
+      required: 1
+      safety: false
+    - item: 黄昏のコイン
+      required: 3
+      safety: false
+
+- name: エンジェルHD★
+  no: 20195
+  rank: 軍曹
+  recipe:
+    - item: エンジェルHD
+      required: 1
+      safety: true
+    - item: タイラントハート・シア
+      required: 1
+      safety: true
+    - item: タイラントハート・ムー
+      required: 1
+      safety: true
+    - item: タイラントハート・アン
+      required: 1
+      safety: true
+
+- name: デルゴリアンHD
+  no: 20281
+  rank: 中尉
+  recipe:
+    - item: デルモーター
+      required: 2
+      safety: false
+    - item: ガスタライト
+      required: 30
+      safety: false
+    - item: 黄昏の回路
+      required: 30
+      safety: false
+
+- name: フィーラーHD
+  no: 21506
+  rank: 少尉
+  recipe:
+    - item: デカムカBD2
+      required: 4
+      safety: true
+    - item: デカムカHD3
+      required: 1
+      safety: true
+    - item: 秘伝の砂
+      required: 45
+      safety: false
+    - item: 秘伝の回路
+      required: 45
+      safety: false

@@ -1,0 +1,606 @@
+# ここにメイン武器を書く
+- name: ブラックジェラシーライフル★
+  no: 37
+  rank: 軍曹
+  recipe:
+    - item: ブラックジェラシーライフル
+      required: 1
+      safety: true
+    - item: 狭間の欠片・ポイーン
+      required: 100
+      safety: false
+      
+- name: クロットM82ライフル★
+  no: 38
+  rank: 軍曹
+  recipe:
+    - item: クロットM82ライフル
+      required: 1
+      safety: true
+    - item: 狭間の欠片・ゲルニア
+      required: 100
+      safety: false
+      
+- name: ラゾートDNLグレネード★
+  no: 39
+  rank: 軍曹
+  recipe:
+    - item: ラゾートDNLグレネード
+      required: 1
+      safety: true
+    - item: 狭間の欠片・ガルド
+      required: 100
+      safety: false
+      
+- name: ゴールドハンドガン
+  no: 70001
+  rank: ルーキー
+  recipe:
+    - item: シルバーハンドガン
+      required: 10
+      safety: true
+      
+- name: シルバーハンドガン
+  no: 70002
+  rank: ルーキー
+  recipe:
+    - item: ブロンズハンドガン
+      required: 10
+      safety: true
+      
+- name: ゴールドビームガン
+  no: 70011
+  rank: ルーキー
+  recipe:
+    - item: シルバービームガン
+      required: 10
+      safety: true
+            
+- name: シルバービームガン
+  no: 70012
+  rank: ルーキー
+  recipe:
+    - item: ブロンズビームガン
+      required: 10
+      safety: true
+
+- name: アヌビートルガン
+  no: 70016
+  rank: 中尉
+  recipe:
+    - item: ビートルガン
+      required: 1
+      safety: false
+    - item: ゴッツォLG
+      required: 1
+      safety: false
+    - item: ガンフレームS
+      required: 1
+      safety: false
+    - item: アヌビプレート
+      required: 6
+      safety: true
+    - item: ガドラの装甲
+      required: 6
+      safety: true
+    - item: 黄昏の破片
+      required: 5
+      safety: true
+    - item: 黄昏のオイル
+      required: 5
+      safety: true
+    - item: ダラビスハーブ
+      required: 1
+      safety: true
+      
+- name: ヘラクレスマグ
+  no: 70017
+  rank: 中尉
+  recipe:
+    - item: アヌビートルガン
+      required: 1
+      safety: true
+    - item: ガンフレームL
+      required: 1
+      safety: false
+    - item: デカムカHD3
+      required: 1
+      safety: false
+    - item: アーマーメットHD
+      required: 4
+      safety: false
+    - item: 汚染された爪
+      required: 3
+      safety: false
+    - item: イントストーン
+      required: 5
+      safety: false
+      
+- name: ゴールドマスケット
+  no: 70021
+  rank: ルーキー
+  recipe:
+    - item: シルバーマスケット
+      required: 10
+      safety: true
+      
+- name: シルバーマスケット
+  no: 70022
+  rank: ルーキー
+  recipe:
+    - item: ブロンズマスケット
+      required: 10
+      safety: true
+      
+- name: ゴールドハンドマシンガン
+  no: 70031
+  rank: ルーキー
+  recipe:
+    - item: シルバーハンドマシンガン
+      required: 10
+      safety: true
+
+- name: シルバーハンドマシンガン
+  no: 70032
+  rank: ルーキー
+  recipe:
+    - item: ブロンズハンドマシンガン
+      required: 10
+      safety: true
+
+- name: ゴールドハンドバズーカ
+  no: 70041
+  rank: ルーキー
+  recipe:
+    - item: シルバーハンドバズーカ
+      required: 10
+      safety: true
+
+- name: シルバーハンドバズーカ
+  no: 70042
+  rank: ルーキー
+  recipe:
+    - item: ブロンズハンドバズーカ
+      required: 10
+      safety: true
+
+- name: ヒートガンカスタム【星辰】
+  no: 70058
+  rank: 少尉
+  recipe:
+    - item: ヒートガンカスタム
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: ディスクシューター【星辰】
+  no: 70116
+  rank: 少尉
+  recipe:
+    - item: ディスクシューター
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: シュプールレイ【星辰】
+  no: 70143
+  rank: 少尉
+  recipe:
+    - item: シュプールレイ
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+     
+- name: モーターガン
+  no: 70155
+  rank: 兵長
+  recipe:
+    - item: ボーンクリスタル
+      required: 1
+      safety: true
+    - item: 古代の欠片
+      required: 5
+      safety: false
+    - item: 制覇の証・カンビ
+      required: 12
+      safety: true
+    - item: デゴの砂
+      required: 10
+      safety: true
+    - item: ベネブの砂
+      required: 10
+      safety: true
+    - item: ダスドの砂
+      required: 10
+      safety: true
+      
+- name: モンキーガン
+  no: 70400
+  rank: 少尉
+  recipe:
+    - item: モンキーガBD3
+      required: 5
+      safety: true
+    - item: モンキーガLG3
+      required: 5
+      safety: true
+    - item: 秘伝の回路
+      required: 50
+      safety: false
+    - item: 秘伝の装甲
+      required: 50
+      safety: false
+      
+- name: ガドラガン
+  no: 70410
+  rank: 上等兵
+  recipe:
+    - item: ガドラの装甲
+      required: 6
+      safety: false
+    - item: ガドラのキバ
+      required: 4
+      safety: false
+    - item: ガドラのシャフト
+      required: 2
+      safety: false
+    - item: ガドラの頭蓋
+      required: 1
+      safety: false
+    - item: ガンフレームM
+      required: 1
+      safety: false
+
+- name: ツインガドラヴェノム
+  no: 70414
+  rank: 中尉
+  recipe:
+    - item: ツインガドラトゥルー
+      required: 1
+      safety: true
+    - item: VDクリスタル2β
+      required: 10
+      safety: false
+    - item: VDクリスタル3β
+      required: 40
+      safety: false
+    - item: VDクリスタル4β
+      required: 50
+      safety: false
+      
+- name: ツインガドラガン
+  no: 70415
+  rank: 上等兵
+  recipe:
+    - item: ガドラガン
+      required: 1
+      safety: false
+    - item: ガドラのキバ
+      required: 6
+      safety: false
+    - item: ガドラの頭蓋
+      required: 2
+      safety: false
+    - item: 強靭なネック
+      required: 2
+      safety: false
+
+- name: ツインガドラトゥルー
+  no: 70420
+  rank: 上等兵
+  recipe:
+    - item: ツインガドラガン
+      required: 1
+      safety: false
+    - item: アヌビプレート
+      required: 2
+      safety: false
+    - item: アヌビシャフト
+      required: 1
+      safety: false
+    - item: アヌビファング
+      required: 1
+      safety: false
+    - item: 英知のコア
+      required: 2
+      safety: false
+
+- name: ドレザガン
+  no: 70430
+  rank: 上等兵
+  recipe:
+    - item: 5th記念硬貨
+      required: 2
+      safety: false
+    - item: ドレザウラーの装甲
+      required: 3
+      safety: true
+    - item: ブッツラスの装甲
+      required: 3
+      safety: true
+      
+- name: EXドレザガン
+  no: 70431
+  rank: 中尉
+  recipe:
+    - item: ドレザガン
+      required: 1
+      safety: false
+    - item: EXヒナワ
+      required: 1
+      safety: true
+    - item: サポートサーキット
+      required: 40
+      safety: true
+    - item: 灼熱竜のコア
+      required: 3
+      safety: true
+    - item: スコッピオの装甲
+      required: 10
+      safety: false
+    - item: コヤドンLG2
+      required: 3
+      safety: true
+    - item: 耐熱装甲
+      required: 15
+      safety: false
+      
+- name: EXドレザガン
+  no: 70432
+  rank: 中尉
+  recipe:
+    - item: ドレザガン
+      required: 1
+      safety: false
+    - item: EXヒナワ
+      required: 1
+      safety: true
+    - item: フェザーチップ・焔
+      required: 4
+      safety: true
+    - item: 灼熱竜のコア
+      required: 3
+      safety: true
+    - item: スコッピオの装甲
+      required: 10
+      safety: false
+    - item: コヤドンLG2
+      required: 3
+      safety: true
+    - item: 耐熱装甲
+      required: 2
+      safety: false
+      
+- name: ビームガン改
+  no: 70500
+  rank: 少尉
+  recipe:
+    - item: ビームガン
+      required: 1
+      safety: true
+    - item: ガンフレームS
+      required: 1
+      safety: true
+    - item: ゲルニアの砂
+      required: 10
+      safety: false
+    - item: 硬岩の破片
+      required: 10
+      safety: false
+    - item: 鋼の装甲
+      required: 10
+      safety: false
+    - item: アグルナ重装甲
+      required: 2
+      safety: false
+
+      
+- name: カスタムマグ改
+  no: 70501
+  rank: 少尉
+  recipe:
+    - item: カスタムマグ
+      required: 1
+      safety: true
+    - item: ガンフレームS
+      required: 1
+      safety: true
+    - item: 硬岩の破片
+      required: 10
+      safety: false
+    - item: 鋼の装甲
+      required: 10
+      safety: 
+    - item: ゲルニアの硬砂
+      required: 5
+      safety: false
+    - item: 鋼の重甲
+      required: 3
+      safety: false
+    - item: アグナル重装甲
+      required: 2
+      safety: false
+      
+- name: プロックダブルマグ
+  no: 70710
+  rank: 一等兵
+  recipe:
+    - item: プロックBD
+      required: 10
+      safety: false
+    - item: ゲルニアの輝石
+      required: 1
+      safety: false
+      
+- name: ブラストレールガン【星辰】
+  no: 71156
+  rank: 少尉
+  recipe:
+    - item: ブラストレールガン
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: ファイアクロスボウ改【星辰】
+  no: 71207
+  rank: 少尉
+  recipe:
+    - item: ファイアクロスボウ改
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: トリプルシューター【星辰】
+  no: 71231
+  rank: 少尉
+  recipe:
+    - item: トリプルシューター
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: ツラースショット
+  no: 71430
+  rank: 上等兵
+  recipe:
+    - item: 5th記念硬貨
+      required: 2
+      safety: false
+    - item: ブッツラスの装甲
+      required: 3
+      safety: true
+    - item: ドレザウラーの装甲
+      required: 3
+      safety: true
+      
+- name: EXツラースショット
+  no: 71431
+  rank: 中尉
+  recipe:
+    - item: ツラースショット
+      required: 1
+      safety: false
+    - item: EXショットガン
+      required: 3
+      safety: true
+    - item: サポートサーキット
+      required: 40
+      safety: true
+    - item: 機械樹のコア
+      required: 3
+      safety: true
+    - item: ウガガリーの装甲
+      required: 10
+      safety: false
+    - item: プーシャの砂
+      required: 8
+      safety: false
+    - item: 鋼の重甲
+      required: 18
+      safety: true
+      
+- name: EXツラースショット
+  no: 71432
+  rank: 中尉
+  recipe:
+    - item: ツラースショット
+      required: 1
+      safety: false
+    - item: EXショットガン
+      required: 3
+      safety: true
+    - item: フェザーチップ・集
+      required: 4
+      safety: true
+    - item: 機械樹のコア
+      required: 3
+      safety: true
+    - item: ウガガリーの装甲
+      required: 10
+      safety: false
+    - item: プーシャの砂
+      required: 8
+      safety: false
+    - item: 鋼の重甲
+      required: 8
+      safety: true
+      
+- name: タイクーンブラスト
+  no: 71433
+  rank: 中尉
+  recipe:
+    - item: タイクーン・ブタークのコア
+      required: 5
+      safety: true
+    - item: カオスカイザーのコア
+      required: 10
+      safety: false
+    - item: アクイーア・エアーズのコア
+      required: 10
+      safety: false
+    - item: 番人のコア
+      required: 20
+      safety: false
+    - item: フレイムのコア
+      required: 20
+      safety: false
+    - item: エレクトリックのコア
+      required: 20
+      safety: false
+    - item: ビームのコア
+      required: 20
+      safety: false
+    - item: フィジカルのコア
+      required: 20
+      safety: false
+    - item: ブタークのコア
+      required: 50
+      safety: false

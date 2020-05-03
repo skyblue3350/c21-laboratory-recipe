@@ -1,0 +1,311 @@
+- name: コスモカイザーBD2
+  no: 66
+  rank: 中尉
+  recipe:
+    - item: 皇帝の宝玉
+      required: 1
+      safety: false
+    - item: サバスのオーブ
+      required: 1
+      safety: false
+    - item: コスモカイザーBD
+      required: 1
+      safety: false
+    - item: 黄昏のコイン
+      required: 3
+      safety: false
+      
+- name: F・リュールBD2
+  no: 70
+  rank: ルーキー
+  recipe:
+    - item: 2018バレンタインチケット
+      required: 30
+      safety: true
+
+- name: O・アシスBD★
+  no: 80
+  rank: ルーキー
+  recipe:
+    - item: O・アシスBD
+      required: 1
+      safety: true
+    - item: パンプキンピッチャー
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 1
+      safety: true
+
+- name: エンジェルBD★
+  no: 195
+  rank: 軍曹
+  recipe:
+    - item: エンジェルBD
+      required: 1
+      safety: true
+    - item: タイラントハート・シア
+      required: 1
+      safety: true
+    - item: タイラントハート・ムー
+      required: 1
+      safety: true
+    - item: タイラントハート・アン
+      required: 1
+      safety: true
+      
+- name: ヘビージャガーアームBD2
+  no: 345
+  rank: 兵長
+  recipe:
+    - item: アクイーア・エアーズのコア
+      required: 2
+      safety: false
+    - item: ブタークのコア
+      required: 10
+      safety: false
+    - item: 被弾した破片
+      required: 10
+      safety: false
+    - item: 被弾した回路
+      required: 10
+      safety: false
+      
+- name: ビッグマンテスTriBD
+  no: 481
+  rank: 中尉
+  recipe:
+    - item: ビッグマンテスBD
+      required: 1
+      safety: true
+    - item: ビームアーマー
+      required: 1
+      safety: true
+    - item: ガル・コズミック金属
+      required: 7
+      safety: false
+    - item: デグ・コズミック金属
+      required: 6
+      safety: false
+    - item: ベラ・コズミック金属
+      required: 7
+      safety: false
+
+- name: タラントリックBD2
+  no: 606
+  rank: 上等兵
+  recipe:
+    - item: タラントリックBD
+      required: 1
+      safety: false
+    - item: ポインドライト
+      required: 50
+      safety: false
+    - item: 秘伝の回路
+      required: 10
+      safety: false
+    - item: 秘伝の装甲
+      required: 10
+      safety: false
+
+- name: ゼロファイターNEXTBD2
+  no: 1245
+  rank: 兵長
+  recipe:
+    - item: アクイーア・エアーズのコア
+      required: 2
+      safety: false
+    - item: ブタークのコア
+      required: 10
+      safety: false
+    - item: 被弾した破片
+      required: 10
+      safety: false
+    - item: 被弾した回路
+      required: 10
+      safety: false
+      
+- name: マスターペペンBD
+  no: 1530
+  rank: 兵長
+  recipe:
+    - item: リーグフェザー・焔
+      required: 3
+      safety: true
+    - item: リーグフェザー・集
+      required: 3
+      safety: true
+    - item: リーグフェザー・得
+      required: 3
+      safety: true
+
+- name: オレガーツヴァイBD
+  no: 2221
+  rank: 中尉
+  recipe:
+    - item: オレガーBD
+      required: 1
+      safety: true
+    - item: ポー・コズミック金属
+      required: 15
+      safety: false
+    - item: ベラ・コズミック金属
+      required: 10
+      safety: false
+    - item: ダウ・コズミック金属
+      required: 10
+      safety: false
+    - item: ガシ・コズミック金属
+      required: 10
+      safety: false
+
+- name: シャーククラッズBD
+  no: 2341
+  rank: ルーキー
+  recipe:
+    - item: 鋼の回路
+      required: 10
+      safety: false
+    - item: ソーラーコイン
+      required: 5
+      safety: false
+    - item: 岩のコイン
+      required: 10
+      safety: false
+    - item: ゴールド
+      required: 10
+      safety: false
+    - item: コールタール
+      required: 50
+      safety: false
+    - item: ガラクタ
+      required: 200
+      safety: false
+
+- name: シャーククラッズBD
+  no: 2342
+  rank: 上等兵
+  recipe:
+    - item: 鋼の回路
+      required: 2
+      safety: false
+    - item: ガラクタコイン
+      required: 1
+      safety: false
+    - item: 燃えたぎるコイン
+      required: 1
+      safety: false
+    - item: 凍りついたコイン
+      required: 1
+      safety: false
+    - item: 岩のコイン
+      required: 1
+      safety: false
+    - item: サファイア
+      required: 2
+      safety: false
+
+- name: VDヘラグレイガーBD
+  no: 2679
+  rank: 中尉
+  recipe:
+    - item: VDクリスタル1α
+      required: 20
+      safety: false
+    - item: VDクリスタル2α
+      required: 5
+      safety: false
+    - item: VDクリスタル3α
+      required: 5 
+      safety: false
+
+- name: マニモオーガBD
+  no: 3541
+  rank: 兵長
+  recipe:
+    - item: リーグフェザー・得
+      required: 1
+      safety: true
+
+- name: エースブレイバーBD2
+  no: 3663
+  rank: 中尉
+  recipe:
+    - item: エースブレイバーBD
+      required: 1
+      safety: false
+    - item: VDクリスタル1β
+      required: 10
+      safety: false
+    - item: VDクリスタル2β
+      required: 30
+      safety: false
+    - item: VDクリスタル3β
+      required: 5
+      safety: false
+    - item: VDクリスタル4β
+      required: 1
+      safety: false
+
+- name: エースブレイバーBD2
+  no: 3664
+  rank: 中尉
+  recipe:
+    - item: エースブレイバーBD´
+      required: 1
+      safety: false
+    - item: VDクリスタル1β
+      required: 10
+      safety: false
+    - item: VDクリスタル2β
+      required: 30
+      safety: false
+    - item: VDクリスタル3β
+      required: 5
+      safety: false
+    - item: VDクリスタル4β
+      required: 1
+      safety: false
+
+- name: サジタルマクシスBD2
+  no: 3811
+  rank: 上等兵
+  recipe:
+    - item: サジタルマクシスBD
+      required: 1
+      safety: true
+    - item: サジタルマクシスAM
+      required: 1
+      safety: true
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: 凍りついたコイン
+      required: 5
+      safety: false
+    - item: キャノンサーキット
+      required: 20
+      safety: false
+
+- name: サジタルマクシスBD3
+  no: 3812
+  rank: 中尉
+  recipe:
+    - item: サジタルマクシスBD2
+      required: 1
+      safety: true
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: ビームアーマー
+      required: 1
+      safety: true
+    - item: ダスドライト
+      required: 1
+      safety: false
+    - item: ベラ・コズミック金属
+      required: 5
+      safety: false
+    - item: ガシ・コズミック金属
+      required: 5
+      safety: false

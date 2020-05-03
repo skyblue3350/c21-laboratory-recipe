@@ -1,0 +1,10 @@
+- name: HP拡張キット4
+  no: 60031
+  rank: 二等兵
+  recipe:
+    - item: HP拡張キット2
+      required: 5
+      safety: true
+    - item: リペアパック1000
+      required: 10
+      safety: false

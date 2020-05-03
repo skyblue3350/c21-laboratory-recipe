@@ -1,0 +1,10 @@
+- name: グレートグレートブレイド★
+  no: 40
+  rank: 軍曹
+  recipe:
+    - item: グレートグレートブレイド
+      required: 1
+      safety: true
+    - item: 狭間の欠片・デゴ
+      required: 100
+      safety: false
