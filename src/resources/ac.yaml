@@ -8,3 +8,565 @@
     - item: リペアパック1000
       required: 10
       safety: false
+
+- name: HP拡張キット5
+  no: 60041
+  rank: 兵長
+  recipe:
+    - item: HP拡張キット4
+      required: 2
+      safety: false
+    - item: リペアパック2000
+      required: 10
+      safety: false
+
+- name: HP拡張キット2
+  no: 60051
+  rank: 二等兵
+  recipe:
+    - item: HP拡張キット
+      required: 10
+      safety: true
+    - item: リペアパック500
+      required: 10
+      safety: false
+
+- name: EN拡張キット4
+  no: 60131
+  rank: 二等兵
+  recipe:
+    - item: EN拡張キット2
+      required: 5
+      safety: true
+    - item: ENパック1000
+      required: 10
+      safety: false
+
+- name: EN拡張キット5
+  no: 60141
+  rank: 兵長
+  recipe:
+    - item: EN拡張キット4
+      required: 2
+      safety: false
+    - item: ENパック2000
+      required: 10
+      safety: false
+
+- name: EN拡張キット2
+  no: 60151
+  rank: 二等兵
+  recipe:
+    - item: EN拡張キット
+      required: 10
+      safety: true
+    - item: ENパック1000
+      required: 10
+      safety: false
+
+- name: ベース拡張キットα2
+  no: 60211
+  rank: 二等兵
+  recipe:
+    - item: ベース拡張キットα
+      required: 1
+      safety: true
+    - item: HP拡張キット2
+      required: 3
+      safety: false
+    - item: EN拡張キット2
+      required: 3
+      safety: false
+
+- name: ベース拡張キットα3
+  no: 60221
+  rank: 軍曹
+  recipe:
+    - item: ベース拡張キットα2
+      required: 2
+      safety: true
+    - item: HP拡張キット4
+      required: 2
+      safety: false
+    - item: EN拡張キット4
+      required: 2
+      safety: false
+
+- name: メインパワーギアα2
+  no: 61011
+  rank: 二等兵
+  recipe:
+    - item: メインパワーギアα
+      required: 1
+      safety: true
+    - item: シューティングギア
+      required: 5
+      safety: false
+    - item: メインアタック+M
+      required: 5
+      safety: false
+
+- name: メインパワーギアα3
+  no: 61021
+  rank: 兵長
+  recipe:
+    - item: メインパワーギアα2
+      required: 2
+      safety: true
+    - item: シューティングギア2
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: メインパワーギアα-G4
+  no: 61032
+  rank: ルーキー
+  recipe:
+    - item: メインパワーギアα-G3
+      required: 1
+      safety: true
+    - item: Mエナジーエッセンス
+      required: 2
+      safety: false
+    - item: Mエナジーリキッド
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: メインパワーギアβ2
+  no: 61111
+  rank: 二等兵
+  recipe:
+    - item: メインパワーギアβ
+      required: 1
+      safety: true
+    - item: シューティングギア
+      required: 5
+      safety: false
+    - item: メインアタック+M
+      required: 5
+      safety: false
+
+- name: メインパワーギアβ3
+  no: 61121
+  rank: 兵長
+  recipe:
+    - item: メインパワーギアβ2
+      required: 2
+      safety: true
+    - item: シューティングギア2
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: メインパワーギアβ-G4
+  no: 61132
+  rank: ルーキー
+  recipe:
+    - item: メインパワーギアβ-G3
+      required: 1
+      safety: true
+    - item: Mエナジーエッセンス
+      required: 2
+      safety: false
+    - item: Mエナジーリキッド
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: メインパワーギアγ2
+  no: 61211
+  rank: 二等兵
+  recipe:
+    - item: メインパワーギアγ
+      required: 1
+      safety: true
+    - item: シューティングギア
+      required: 5
+      safety: false
+    - item: メインアタック+M
+      required: 5
+      safety: false
+
+- name: メインパワーギアγ3
+  no: 61221
+  rank: 兵長
+  recipe:
+    - item: メインパワーギアγ2
+      required: 1
+      safety: true
+    - item: シューティングギア2
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: メインパワーギアγ-G4
+  no: 61232
+  rank: ルーキー
+  recipe:
+    - item: メインパワーギアγ-G3
+      required: 1
+      safety: true
+    - item: Mエナジーエッセンス
+      required: 2
+      safety: false
+    - item: Mエナジーリキッド
+      required: 5
+      safety: false
+    - item: メインアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアα2
+  no: 61511
+  rank: 二等兵
+  recipe:
+    - item: サブパワーギアα
+      required: 1
+      safety: true
+    - item: ファイティングギア
+      required: 5
+      safety: false
+    - item: サブアタック+M
+      required: 5
+      safety: false
+
+- name: サブパワーギアα3
+  no: 61521
+  rank: 兵長
+  recipe:
+    - item: サブパワーギアα2
+      required: 1
+      safety: true
+    - item: ファイティングギア2
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアα-G4
+  no: 61532
+  rank: ルーキー
+  recipe:
+    - item: サブパワーギアα-G4
+      required: 1
+      safety: true
+    - item: ファイティングギア2
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアβ2
+  no: 61611
+  rank: 二等兵
+  recipe:
+    - item: サブパワーギアβ
+      required: 1
+      safety: true
+    - item: ファイティングギア
+      required: 5
+      safety: false
+    - item: サブアタック+M
+      required: 5
+      safety: false
+
+- name: サブパワーギアβ3
+  no: 61621
+  rank: 兵長
+  recipe:
+    - item: サブパワーギアβ2
+      required: 2
+      safety: true
+    - item: ファイティングギア2
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアβ-G4
+  no: 61632
+  rank: ルーキー
+  recipe:
+    - item: サブパワーギアβ-G3
+      required: 1
+      safety: true
+    - item: Sエナジーエッセンス
+      required: 2
+      safety: false
+    - item: Sエナジーリキッド
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアγ2
+  no: 61711
+  rank: 二等兵
+  recipe:
+    - item: サブパワーギアγ
+      required: 1
+      safety: true
+    - item: ファイティングギア
+      required: 5
+      safety: false
+    - item: サブアタック+M
+      required: 5
+      safety: false
+
+- name: サブパワーギアγ3
+  no: 61721
+  rank: 兵長
+  recipe:
+    - item: サブパワーギアγ2
+      required: 2
+      safety: true
+    - item: ファイティングギア2
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: サブパワーギアγ-G4
+  no: 61732
+  rank: ルーキー
+  recipe:
+    - item: サブパワーギアγ-G3
+      required: 1
+      safety: true
+    - item: Sエナジーエッセンス
+      required: 2
+      safety: false
+    - item: Sエナジーリキッド
+      required: 5
+      safety: false
+    - item: サブアタック++M
+      required: 5
+      safety: false
+
+- name: アーマーシステム
+  no: 62001
+  rank: ルーキー
+  recipe:
+    - item: チューニングフレーム
+      required: 1
+      safety: false
+    - item: アルモスライト
+      required: 5
+      safety: false
+    - item: 被弾したトゲ
+      required: 5
+      safety: false
+    - item: コールタール
+      required: 5
+      safety: false
+
+- name: アーマーシステム2
+  no: 620002
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム
+      required: 1
+      safety: false
+    - item: 酸化したオイル
+      required: 5
+      safety: false
+    - item: 被弾した破片
+      required: 5
+      safety: false
+    - item: ウラニウム
+      required: 5
+      safety: false
+
+- name: アーマーシステム3
+  no: 620003
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム2
+      required: 1
+      safety: false
+    - item: 被弾した装甲
+      required: 5
+      safety: false
+    - item: 被弾した回路
+      required: 5
+      safety: false
+    - item: サファイア
+      required: 5
+      safety: false
+
+- name: フレックスアーマーシステム
+  no: 62006
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム3
+      required: 2
+      safety: false
+    - item: ビームアーマー
+      required: 1
+      safety: false
+    - item: フレイムアーマー
+      required: 1
+      safety: false
+    - item: エレキアーマー
+      required: 1
+      safety: false
+    - item: トランク
+      required: 3
+      safety: false
+    - item: 被弾した装甲
+      required: 5
+      safety: false
+    - item: 被弾した回路
+      required: 5
+      safety: false
+    - item: ダイヤモンド
+      required: 3
+      safety: false
+
+- name: バイオアーマーシステム
+  no: 62007
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム3
+      required: 2
+      safety: false
+    - item: ソリッドアーマー
+      required: 1
+      safety: false
+    - item: フレイムアーマー
+      required: 1
+      safety: false
+    - item: エレキアーマー
+      required: 1
+      safety: false
+    - item: ハイパー電卓
+      required: 3
+      safety: false
+    - item: 被弾した装甲
+      required: 5
+      safety: false
+    - item: 被弾した回路
+      required: 5
+      safety: false
+    - item: ダイヤモンド
+      required: 3
+      safety: false
+
+- name: ダイヤアーマーシステム
+  no: 62008
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム3
+      required: 2
+      safety: false
+    - item: ソリッドアーマー
+      required: 1
+      safety: false
+    - item: ビームアーマー
+      required: 1
+      safety: false
+    - item: エレキアーマー
+      required: 1
+      safety: false
+    - item: トランク
+      required: 3
+      safety: false
+    - item: 被弾した装甲
+      required: 5
+      safety: false
+    - item: 被弾した回路
+      required: 5
+      safety: false
+    - item: ダイヤモンド
+      required: 3
+      safety: false
+
+- name: メタルアーマーシステム
+  no: 62009
+  rank: ルーキー
+  recipe:
+    - item: アーマーシステム3
+      required: 2
+      safety: false
+    - item: ソリッドアーマー
+      required: 1
+      safety: false
+    - item: ビームアーマー
+      required: 1
+      safety: false
+    - item: フレイムアーマー
+      required: 1
+      safety: false
+    - item: ハイパー電卓
+      required: 3
+      safety: false
+    - item: 被弾した装甲
+      required: 5
+      safety: false
+    - item: 被弾した回路
+      required: 5
+      safety: false
+    - item: ダイヤモンド
+      required: 3
+      safety: false
+
+- name: 四聖獣の証【天】
+  no: 62501
+  rank: 軍曹
+  recipe:
+    - item: 四聖獣の証【黒】
+      required: 1
+      safety: true
+    - item: 四聖獣の証【白】
+      required: 1
+      safety: true
+    - item: 四聖獣の証【朱】
+      required: 1
+      safety: true
+    - item: 四聖獣の証【青】
+      required: 1
+      safety: true
+
+- name: ベアーギア
+  no: 65001
+  rank: ルーキー
+  recipe:
+    - item: ベアーHD
+      required: 1
+      safety: false
+    - item: ポイーンの輝石
+      required: 1
+      safety: false
+
+- name: キンギョのお守り
+  no: 65002
+  rank: 中尉
+  recipe:
+    - item: キンギョの鱗
+      required: 12
+      safety: true
+    - item: キンギョのヒレ
+      required: 2
+      safety: true
+    - item: 燃えたぎる破片
+      required: 3
+      safety: false
+    - item: ベネブの砂
+      required: 3
+      safety: false
