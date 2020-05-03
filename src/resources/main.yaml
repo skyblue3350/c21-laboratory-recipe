@@ -624,3 +624,398 @@
     - item: ヘグ・コズミック金属
       required: 20
       safety: false
+      
+- name: イーブルブレイカー(1/3)
+  no: 71438
+  rank: 上等兵
+  recipe:
+    - item: デルクリスタル
+      required: 2
+      safety: true
+      
+- name: イーブルブレイカー(2/3)
+  no: 71439
+  rank: 上等兵
+  recipe:
+    - item: デルクリスタル
+      required: 8
+      safety: true
+    - item: キャノンサーキット
+      required: 5
+      safety: true
+      
+- name: イーブルブレイカー(3/3)
+  no: 71440
+  rank: 軍曹
+  recipe:
+    - item: イーブルブレイカー(1/3)
+      required: 1
+      safety: true
+    - item: イーブルブレイカー(2/3)
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 10
+      safety: true
+    - item: 黄昏の破片
+      required: 5
+      safety: true
+    - item: 黄昏のオイル
+      required: 5
+      safety: true
+      
+- name: EXイーブルブレイカ
+  no: 71441 
+  rank: 中尉
+  recipe:
+    - item: イーブルブレイカー(3/3)
+      required: 1
+      safety: true
+    - item: マテリアルブレイカー
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+    - item: 使徒の装甲
+      required: 10
+      safety: true
+    - item: ゲートの破片
+      required: 10
+      safety: true
+      
+- name: PHイーブルブレイカー
+  no: 71442
+  rank: 中尉
+  recipe:
+    - item: EXイーブルブレイカー
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+    - item: 黒炎のコア
+      required: 3
+      safety: true
+      
+- name: BEイーブルブレイカー
+  no: 71443
+  rank: 中尉
+  recipe:
+    - item: EXイーブルブレイカー
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+    - item: 青炎のコア
+      required: 3
+      safety: true
+      
+- name: FLイーブルブレイカー
+  no: 71444
+  rank: 中尉
+  recipe:
+    - item: EXイーブルブレイカー
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+    - item: 紅炎のコア
+      required: 3
+      safety: true
+      
+- name: SHイーブルブレイカー
+  no: 71445
+  rank: 中尉
+  recipe:
+    - item: EXイーブルブレイカー
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+    - item: 雷炎のコア
+      required: 3
+      safety: true
+      
+- name: EXイーブルブレイカー
+  no: 71446
+  rank: 中尉
+  recipe:
+    - item: PHイーブルブレイカー
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+      
+- name: EXイーブルブレイカー
+  no: 71447
+  rank: 中尉
+  recipe:
+    - item: BEイーブルブレイカー
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+      
+- name: EXイーブルブレイカー
+  no: 71448
+  rank: 中尉
+  recipe:
+    - item: FLイーブルブレイカー
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+      
+- name: EXイーブルブレイカー
+  no: 71449
+  rank: 中尉
+  recipe:
+    - item: SHイーブルブレイカー
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 29
+      safety: true
+      
+- name: 悪魔軍の教本
+  no: 71450
+  rank: ルーキー
+  recipe:
+    - item: 狭間の欠片・ポイーン
+      required: 5
+      safety: false
+      
+- name: エレキガン★
+  no: 71451
+  rank: ルーキー
+  recipe:
+    - item: エントゥクリスタル
+      required: 1
+      safety: true
+    - item: 大樹のオイル
+      required: 1
+      safety: true
+    - item: エレキガン
+      required: 1
+      safety: true
+    - item: アレスターBD'
+      required: 1
+      safety: true
+    - item: アレスターLG'
+      required: 1
+      safety: true
+    - item: アレスターHD'
+      required: 1
+      safety: true
+    - item: アレスターAM'
+      required: 1
+      safety: true
+    - item: アレスターBS'
+      required: 1
+      safety: true
+      
+- name: ライトニングキャノン★
+  no: 71460
+  rank: 中尉
+  recipe:
+    - item: ライトニングキャノン
+      required: 1
+      safety: true
+    - item: 11th記念プラチナ硬貨
+      required: 3
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 3
+      safety: true
+    - item: タイクーン・ブタークのコア
+      required: 1
+      safety: true
+    - item: カオスカイザーのコア
+      required: 1
+      safety: true
+    - item: アクイーア・エアーズのコア
+      required: 1
+      safety: true
+    - item: エレクトリックのコア
+      required: 1
+      safety: true
+      
+- name: パルスガン★
+  no: 71461
+  rank: ルーキー
+  recipe:
+    - item: ボーンクリスタル
+      required: 1
+      safety: true
+    - item: 化石のオイル
+      required: 1
+      safety: true
+    - item: パルスガン
+      required: 1
+      safety: true
+    - item: マシンドレッドBD'
+      required: 1
+      safety: true
+    - item: マシンドレッドLG'
+      required: 1
+      safety: true
+    - item: マシンドレッドHD'
+      required: 1
+      safety: true
+    - item: マシンドレッドAM'
+      required: 1
+      safety: true
+    - item: マシンドレッドBS'
+      required: 1
+      safety: true
+    - item: マシンドレッドBSJ'
+      required: 1
+      safety: true
+
+- name: シールドガトリング
+  no: 71470
+  rank: ルーキー
+  recipe:
+    - item: GLパラレルコア
+      required: 3
+      safety: true
+    - item: 試作シールドガトリング
+      required: 1
+      safety: true
+    - item: ジェミニオンBD'
+      required: 1
+      safety: true
+    - item: ジェミニオンLG2'
+      required: 1
+      safety: true
+    - item: ジェミニオンHD2'
+      required: 1
+      safety: true
+    - item: ジェミニオンAM3'
+      required: 1
+      safety: true
+    - item: B・リーナBD'
+      required: 1
+      safety: true
+    - item: B・リーナLG'
+      required: 1
+      safety: true
+    - item: B・リーナHD'
+      required: 1
+      safety: true
+    - item: B・リーナAM'
+      required: 1
+      safety: true
+    - item: B・リーナBS'
+      required: 1
+      safety: true
+
+- name: ラピッドパルスミサイル
+  no: 71471
+  rank: ルーキー
+  recipe:
+    - item: DGパラレルコア
+      required: 3
+      safety: true
+    - item: 試作ラピットパルスミサイル
+      required: 1
+      safety: true
+    - item: バイスカノンBD'
+      required: 1
+      safety: true
+    - item: バイスカノンLG'
+      required: 1
+      safety: true
+    - item: バイスカノンHD'
+      required: 1
+      safety: true
+    - item: バイスカノンAM'
+      required: 1
+      safety: true
+    - item: バイスカノンBS'
+      required: 1
+      safety: true
+    - item: キャット・C LG'
+      required: 1
+      safety: true
+    - item: キャット・C HD'
+      required: 1
+      safety: true
+    - item: キャット・C AM'
+      required: 1
+      safety: true
+    - item: キャット・C BS'
+      required: 1
+      safety: true
+    - item: キャット・C HD2'
+      required: 1
+      safety: true
+      
+- name: アクセルミサイルガン
+  no: 71473
+  rank: ルーキー
+  recipe:
+    - item: GLスフィア
+      required: 10
+      safety: true
+    - item: GLパラレルコア
+      required: 15
+      safety: true
+    - item: 試作アクセルミサイルガン'
+      required: 1
+      safety: true
+    - item: パラディナイトBD'
+      required: 1
+      safety: true
+    - item: パラディナイトLG'
+      required: 1
+      safety: true
+    - item: パラディナイトHD'
+      required: 1
+      safety: true
+    - item: パラディナイトAM'
+      required: 1
+      safety: true
+    - item: パラディナイトBS'
+      required: 1
+      safety: true
+    - item: ラグナバレットBD'
+      required: 1
+      safety: true
+    - item: ラグナバレットLG'
+      required: 1
+      safety: true
+    - item: ラグナバレットHD'
+      required: 1
+      safety: true
+    - item: ラグナバレットAM'
+      required: 1
+      safety: true
+    - item: ラグナバレットBS'
+      required: 1
+      safety: true
+    - item: ラグナバレットAMJ'
+      required: 1
+      safety: true
