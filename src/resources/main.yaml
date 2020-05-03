@@ -1173,7 +1173,7 @@
     - item: 溶岩の液体
       required: 20
       safety: true
-    - item:試作ブレイズハンドキャノン
+    - item: 試作ブレイズハンドキャノン
       required: 1
       safety: true
     - item: ギガンティックキャノン'
