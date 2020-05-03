@@ -604,8 +604,8 @@
     - item: ブタークのコア
       required: 50
       safety: false
-      - name: タイクーンブラスト
-      
+
+- name: タイクーンブラスト
   no: 71434
   rank: 大尉
   recipe:
