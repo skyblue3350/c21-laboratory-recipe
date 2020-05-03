@@ -1019,3 +1019,851 @@
     - item: ラグナバレットAMJ'
       required: 1
       safety: true
+
+- name: チャージビームキャノン
+  no: 71473
+  rank: 軍曹
+  recipe:
+    - item: DGスフィア
+      required: 10
+      safety: true
+    - item: DGパラレルコア
+      required: 15
+      safety: true
+    - item: 試作チャージビームキャノン
+      required: 1
+      safety: true
+    - item: ヴィジュラBD'
+      required: 1
+      safety: true
+    - item: ヴィジュラLG'
+      required: 1
+      safety: true
+    - item: ヴィジュラHD'
+      required: 1
+      safety: true
+    - item: ヴィジュラBS'
+      required: 1
+      safety: true
+    - item: ホバーミィルBD'
+      required: 1
+      safety: true
+    - item: ホバーミィルLG'
+      required: 1
+      safety: true
+    - item: ホバーミィルHD'
+      required: 1
+      safety: true
+    - item: ホバーミィルAM'
+      required: 1
+      safety: true
+    - item: ホバーミィルBS'
+      required: 1
+      safety: true
+
+- name: ヒートガトリング
+  no: 71475
+  rank: 兵長
+  recipe:
+    - item: 暗いGRスフィア
+      required: 10
+      safety: true
+    - item: 暗いGRスフィア
+      required: 15
+      safety: true
+    - item: アマムカの弾丸
+      required: 1
+      safety: true
+    - item: 双頭のケイブグリーチャーのオーブ
+      required: 1
+      safety: true
+    - item: ベイルヘイズのオーブ
+      required: 1
+      safety: true
+    - item: 試作ヒートガトリング
+      required: 1
+      safety: true
+    - item: アルバトレオスBD'
+      required: 1
+      safety: true
+    - item: アルバトレオスLG'
+      required: 1
+      safety: true
+    - item: アルバトレオスHD
+      required: 1
+      safety: true
+    - item: アルバトレオスAM'
+      required: 1
+      safety: true
+    - item: ターンエッジ3DBD'
+      required: 1
+      safety: true
+    - item: ターンエッジ3DLG'
+      required: 1
+      safety: true
+      
+- name: ラージバスーカ
+  no: 71477
+  rank: 兵長
+  recipe:
+    - item: サンドクリスタル
+      required: 1
+      safety: true
+    - item: 仙人掌のオイル
+      required: 1
+      safety: true
+    - item: ラージバズーカ
+      required: 1
+      safety: true
+    - item: ワイルドフェザリバンBD'
+      required: 1
+      safety: true
+    - item: ワイルドフェザリパンLG'
+      required: 1
+      safety: true
+    - item: ワイルドフェザリパンHD'
+      required: 1
+      safety: true
+    - item: ワイルドフェザリパンAM
+      required: 1
+      safety: true
+    - item: ワイルドフェザリパンBS'
+      required: 1
+      safety: true
+      
+- name: ストライカーライフル
+  no: 71480
+  rank: 兵長
+  recipe:
+    - item: 試作ストライカーライフル
+      required: 10
+      safety: true
+    - item: ピアースブレイカー★
+      required: 3
+      safety: true
+    - item: 12th記念硬貨
+      required: 300
+      safety: true
+    - item: 12th記念プラチナ硬貨
+      required: 2
+      safety: true
+    - item: アマムカの弾丸
+      required: 3
+      safety: true
+    - item: 双頭のケイブグリーチャーのオーブ
+      required: 3
+      safety: true
+    - item: ベイルヘイズのオーブ
+      required: 3
+      safety: true
+
+- name: ブレイズハンドキャノン
+  no: 71490
+  rank: 兵長
+  recipe:
+    - item: ジャンボイのクリスタル
+      required: 1
+      safety: true
+    - item: 退魔のクリスタル
+      required: 5
+      safety: true
+    - item: 業火の破片
+      required: 99
+      safety: true
+    - item: 溶岩の液体
+      required: 20
+      safety: true
+    - item:試作ブレイズハンドキャノン
+      required: 1
+      safety: true
+    - item: ギガンティックキャノン'
+      required: 1
+      safety: true
+    - item: エアロライダーBD'
+      required: 1
+      safety: true
+    - item: エアロライダーLG'
+      required: 1
+      safety: true
+    - item: エアロライダーHD'
+      required: 1
+      safety: true
+    - item: エアロライダーAM'
+      required: 1
+      safety: true
+    - item: エアロライダーBS'
+      required: 1
+      safety: true
+    - item: レッドスクィラBD'
+      required: 1
+      safety: true
+    - item: レッドスクィラHD'
+      required: 1
+      safety: true
+    - item: レッドスクィラAM'
+      required: 1
+      safety: true
+    - item: マウントスBD2'
+      required: 1
+      safety: true
+    - item: マウントスLG2'
+      required: 1
+      safety: true
+    - item: マウントスAM2'
+      required: 1
+      safety: true
+    - item: シェイデンBD2'
+      required: 1
+      safety: true
+    - item: シェイデンLG2'
+      required: 1
+      safety: true
+    - item: シェイデンHD2'
+      required: 1
+      safety: true
+    - item: シェイデンAM2'
+      required: 1
+      safety: true
+    - item: シェイデンBS2'
+      required: 1
+      safety: true
+    - item: シェイデンAM3'
+      required: 1
+      safety: true
+
+- name: ツインエレキマグネガン
+  no: 71491
+  rank: 兵長
+  recipe:
+    - item: ギガロニクスのクリスタル
+      required: 1
+      safety: true
+    - item: 退魔のクリスタル
+      required: 5
+      safety: true
+    - item: 業火の破片
+      required: 99
+      safety: true
+    - item: 溶岩の液体
+      required: 
+      safety: true
+    - item: 試作ツインエレキマグネガン
+      required: 1
+      safety: true
+    - item: ブレイドガン'
+      required: 1
+      safety: true
+    - item: エアロライダーBD'
+      required: 1
+      safety: true
+    - item: エアロライダーLG'
+      required: 1
+      safety: true
+    - item: エアロライダーHD'
+      required: 1
+      safety: true
+    - item: エアロライダーAM'
+      required: 1
+      safety: true
+    - item: エアロライダーBS'
+      required: 1
+      safety: true
+    - item: レッドスクィラBD'
+      required: 1
+      safety: true
+    - item: レッドスクィラLG'
+      required: 1
+      safety: true
+    - item: レッドスクィラHD'
+      required: 1
+      safety: true
+    - item: レッドスクィラAM'
+      required: 1
+      safety: true
+    - item: マイトボンバーBD'
+      required: 1
+      safety: true
+    - item: マイトボンバーLG'
+      required: 1
+      safety: true
+    - item: マイトボンバーHD'
+      required: 1
+      safety: true
+    - item: マイトボンバーAM'
+      required: 1
+      safety: true
+    - item: マイトボンバーAM2'
+      required: 1
+      safety: true
+    - item: ディカロスAM3'
+      required: 1
+      safety: true
+
+- name: レイドライフル改
+  no: 71500
+  rank: 少尉
+  recipe:
+    - item: レイドライフル
+      required: 1
+      safety: true
+    - item: ガンフレームM
+      required: 1
+      safety: true
+    - item: 鋼の装甲
+      required: 10
+      safety: false
+    - item: 硬岩の重片
+      required: 5
+      safety: false
+    - item: 鋼の重甲
+      required: 3
+      safety: false
+    - item: アグナル重装甲
+      required: 2
+      safety: false
+    - item: アグルナアイ
+      required: 1
+      safety: false
+
+- name: ライトニングシューター
+  no: 71501
+  rank: 兵長
+  recipe:
+    - item: 塔GRスフィア
+      required: 1
+      safety: true
+    - item: 幻惑のクリスタル
+      required: 6
+      safety: true
+    - item: 狭間の欠片・塔ゲルニア
+      required: 99
+      safety: true
+    - item: 塔GRパラレルコア
+      required: 10
+      safety: true
+    - item: 試作ライトニングシューター
+      required: 1
+      safety: true
+    - item: エルメ・S BD'
+      required: 1
+      safety: true
+    - item: エルメ・S LG'
+      required: 1
+      safety: true
+    - item: エルメ・S HD'
+      required: 1
+      safety: true
+    - item: エルメ・S AM'
+      required: 1
+      safety: true
+    - item: エルメ・S BS'
+      required: 1
+      safety: true
+    - item: エルメ・S HD2'
+      required: 1
+      safety: true
+    - item: ダイダリオンBD2'
+      required: 1
+      safety: true
+    - item: ダイダリオンAM2'
+      required: 1
+      safety: true
+    - item: シュトルバンカーBD'
+      required: 1
+      safety: true
+    - item: シュトルバンカーLG'
+      required: 1
+      safety: true
+    - item: シュトルバンカーHD'
+      required: 1
+      safety: true
+    - item: シュトルバンカーAM'
+      required: 1
+      safety: true
+    - item: シュトルバンカーBS'
+      required: 1
+      safety: true
+      
+- name: ライトニングシューター
+  no: 71502
+  rank: 兵長
+  recipe:
+    - item: 塔GRスフィア
+      required: 1
+      safety: true
+    - item: 幻惑のクリスタル
+      required: 6
+      safety: true
+    - item: 狭間の欠片・塔ゲルニア
+      required: 99
+      safety: true
+    - item: 塔GRパラレルコア
+      required: 10
+      safety: true
+    - item: 試作ライトニングシューター
+      required: 1
+      safety: true
+    - item: A・メイドBD'
+      required: 1
+      safety: true
+    - item: A・メイドLG'
+      required: 1
+      safety: true
+    - item: A・メイドHD'
+      required: 1
+      safety: true
+    - item: A・メイドAM'
+      required: 1
+      safety: true
+    - item: A・メイドBS'
+      required: 1
+      safety: true
+    - item: A・メイドHD2'
+      required: 1
+      safety: true
+    - item: グリストBD'
+      required: 1
+      safety: true
+    - item: グリストLG'
+      required: 1
+      safety: true
+    - item: グリストHD'
+      required: 1
+      safety: true
+    - item: グリストAM'
+      required: 1
+      safety: true
+    - item: グリストBS'
+      required: 1
+      safety: true
+    - item: アハトジーベンBD'
+      required: 1
+      safety: true
+    - item: アハトジーベンLG'
+      required: 1
+      safety: true
+    - item: アハトジーベンHD'
+      required: 1
+      safety: true
+    - item: アハトジーベンAM'
+      required: 1
+      safety: true
+    - item: アハトジーベンBS'
+      required: 1
+      safety: true
+
+- name: クリスタルビームガン
+  no: 71510
+  rank: 兵長
+  recipe:
+    - item: 憤怒の装甲
+      required: 3
+      safety: true
+    - item: 帝国軍の破片
+      required: 99
+      safety: true
+    - item: 電波の液体
+      required: 60
+      safety: true
+    - item: 試作クリスタルビームガン
+      required: 1
+      safety: true
+    - item: ミッサイドBD'
+      required: 1
+      safety: true
+    - item: ミッサイドLG'
+      required: 1
+      safety: true
+    - item: ミッサイドHD'
+      required: 1
+      safety: true
+    - item: ミッサイドAM'
+      required: 1
+      safety: true
+    - item: ミッサイドBS'
+      required: 1
+      safety: true
+    - item: コントラディクトBD2'
+      required: 1
+      safety: true
+    - item: コントラディクトAM2'
+      required: 1
+      safety: true
+    - item: シノーリスBD'
+      required: 1
+      safety: true
+    - item: シノーリスLG'
+      required: 1
+      safety: true
+    - item: シノーリスHD'
+      required: 1
+      safety: true
+    - item: シノーリスAM'
+      required: 1
+      safety: true
+    - item: シノーリスBS'
+      required: 1
+      safety: true
+
+- name: スティッキーマシンガン
+  no: 71520
+  rank: 兵長
+  recipe:
+    - item: デッドアイコア
+      required: 1
+      safety: true
+    - item: 魔力のオイル
+      required: 5
+      safety: true
+    - item: 試作スティッキーマシンガン
+      required: 1
+      safety: true
+    - item: ルクスBD'
+      required: 1
+      safety: true
+    - item: ルクスLG'
+      required: 1
+      safety: true
+    - item: ルクスHD'
+      required: 1
+      safety: true
+    - item: ルクスBS'
+      required: 1
+      safety: true
+    - item: ダルタニスBD'
+      required: 1
+      safety: true
+    - item: ダルタニスLG'
+      required: 1
+      safety: true
+    - item: ダルタニスHD'
+      required: 1
+      safety: true
+    - item: ダルタニスAM'
+      required: 1
+      safety: true
+    - item: ダルタニスBS'
+      required: 1
+      safety: true
+    - item: ダルタニスAM2'
+      required: 1
+      safety: true
+    - item: クロタクスBD2'
+      required: 1
+      safety: true
+    - item: クロタクスLG'
+      required: 1
+      safety: true
+    - item: クロタクスHD2'
+      required: 1
+      safety: true
+    - item: クロタクスBS'
+      required: 1
+      safety: true
+      
+- name: バーティカルミサイル
+  no: 71530
+  rank: 兵長
+  recipe:
+    - item: 下級悪魔のコア
+      required: 1
+      safety: true
+    - item: 不死のオイル
+      required: 5
+      safety: true
+    - item: 試作バーティカルミサイル
+      required: 1
+      safety: true
+    - item: コンバットフリードBD'
+      required: 1
+      safety: true
+    - item: コンバットフリードLG'
+      required: 1
+      safety: true
+    - item: コンバットフリードHD'
+      required: 1
+      safety: true
+    - item: コンバットフリードAM'
+      required: 1
+      safety: true
+    - item: コンバットフリードBS'
+      required: 1
+      safety: true
+    - item: コンバットフリードAM2'
+      required: 1
+      safety: true
+    - item: バンガードBD3'
+      required: 1
+      safety: true
+    - item: バンガードHD3'
+      required: 1
+      safety: true
+    - item: マリンダイバーBD'
+      required: 1
+      safety: true
+    - item: マリンダイバーLG'
+      required: 1
+      safety: true
+    - item: マリンダイバーHD
+      required: 1
+      safety: true
+    - item: マリンダイバーAM'
+      required: 1
+      safety: true
+    - item: マリンダイバーBS'
+      required: 1
+      safety: true
+      
+- name: シュレッドショットガン
+  no: 71540
+  rank: 兵長
+  recipe:
+    - item: デッドセクトコア
+      required: 1
+      safety: true
+    - item: 紫怨のオイル
+      required: 5
+      safety: true
+    - item: 試作シュレッドショットガン
+      required: 1
+      safety: true
+    - item: スパーダBD'
+      required: 1
+      safety: true
+    - item: スパーダLG'
+      required: 1
+      safety: true
+    - item: スパーダHD'
+      required: 1
+      safety: true
+    - item: スパーダAM'
+      required: 1
+      safety: true
+    - item: スパーダBS'
+      required: 1
+      safety: true
+    - item: ロビンハンターBD'
+      required: 1
+      safety: true
+    - item: ロビンハンターLG'
+      required: 1
+      safety: true
+    - item: ロビンハンターHD''
+      required: 1
+      safety: true
+    - item: ロビンハンターAM'
+      required: 1
+      safety: true
+    - item: ロビンハンターBS'
+      required: 1
+      safety: true
+    - item: ハディガルムLG'
+      required: 1
+      safety: true
+    - item: ハディガルムHD'
+      required: 1
+      safety: true
+    - item: ハディガルムAM'
+      required: 1
+      safety: true
+      
+- name: ペンシルボトムランチャー
+  no: 71550
+  rank: 兵長
+  recipe:
+    - item: デッドセクトコア
+      required: 5
+      safety: true
+    - item: 紫怨のオイル
+      required: 20
+      safety: true
+    - item: 特殊設計図
+      required: 4
+      safety: true
+    - item: 試作ペンシルボトムランチャー
+      required: 3
+      safety: true
+    - item: レーヴァ・ブレード★
+      required: 1
+      safety: true
+    - item: スパーダBD'
+      required: 1
+      safety: true
+    - item: スパーダLG'
+      required: 1
+      safety: true
+    - item: スパーダHD'
+      required: 1
+      safety: true
+    - item: スパーダAM'
+      required: 1
+      safety: true
+    - item: スパーダBS'
+      required: 1
+      safety: true
+    - item: ロビンハンターBD'
+      required: 1
+      safety: true
+    - item: ロビンハンターLG'
+      required: 1
+      safety: true
+    - item: ロビンハンターHD''
+      required: 1
+      safety: true
+    - item: ロビンハンターAM'
+      required: 1
+      safety: true
+    - item: ロビンハンターBS'
+      required: 1
+      safety: true
+    - item: ハディガルムLG'
+      required: 1
+      safety: true
+    - item: ハディガルムHD'
+      required: 1
+      safety: true
+    - item: ハディガルムAM'
+      required: 1
+      safety: true
+      
+- name: ペンシルボトルランチャー
+  no: 71551
+  rank: 軍曹
+  recipe:
+    - item: ペンシルボトムランチャー
+      required: 10
+      safety: true
+    - item: レーヴァ・ブレード★
+      required: 10
+      safety: true
+      
+- name: アクセルミサイルガン【常闇】
+  no: 71560
+  rank: 軍曹
+  recipe:
+    - item: アクセルミサイルガン
+      required: 1
+      safety: true
+    - item: スランバーの仮想データ
+      required: 5
+      safety: true
+      
+- name: ヒートガトリングガン【常闇】
+  no: 71561
+  rank: 軍曹
+  recipe:
+    - item: ヒートガトリングガン
+      required: 1
+      safety: true
+    - item: スランバーの仮想データ
+      required: 5
+      safety: true
+      
+- name: チャージビームキャノン【常闇】
+  no: 71562
+  rank: 軍曹
+  recipe:
+    - item: チャージビームキャノン
+      required: 1
+      safety: true
+    - item: スランバーの仮想データ
+      required: 5
+      safety: true
+      
+- name: シールドガトリング【常闇】
+  no: 71563
+  rank: 軍曹
+  recipe:
+    - item: シールドガトリング
+      required: 1
+      safety: true
+    - item: スランバーの仮想データ
+      required: 5
+      safety: true
+      
+- name: ラピッドパルスミサイル
+  no: 71564
+  rank: 軍曹
+  recipe:
+    - item: ラピッドパルスミサイル
+      required: 1
+      safety: true
+    - item: スランバーの仮想データ
+      required: 5
+      safety: true
+      
+- name: ジュウガライフル
+  no: 71710
+  rank: 一等兵
+  recipe:
+    - item: ジュウガAM
+      required: 6
+      safety: false
+    - item: ジュウガHD
+      required: 6
+      safety: false
+    - item: ゲルニアの輝石
+      required: 1
+      safety: false
+      
+- name: ラフネックマシンガン【星辰】
+  no: 72122
+  rank: 少尉
+  recipe:
+    - item: ラフネックマシンガン
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: ラフネックマシンガン★【星辰】
+  no: 72123
+  rank: 少尉
+  recipe:
+    - item: ラフネックマシンガン★
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: ラフネックマシンガン★【星辰】
+  no: 72124
+  rank: 少尉
+  recipe:
+    - item: ラフネックマシンガン【星辰】
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石
+      required: 2
+      safety: true
+
+- name: アドバンスドレーザー【星辰】
+  no: 72132
+  rank: 少尉
+  recipe:
+    - item: アドバンスドレーザー★
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
