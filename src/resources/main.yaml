@@ -604,3 +604,23 @@
     - item: ブタークのコア
       required: 50
       safety: false
+      - name: タイクーンブラスト
+      
+  no: 71434
+  rank: 大尉
+  recipe:
+    - item: タイクーン・ブタークのコア
+      required: 3
+      safety: true
+    - item: カオスカイザーのコア
+      required: 5
+      safety: false
+    - item: アクイーア・エアーズのコア
+      required: 5
+      safety: false
+    - item: 番人のコア
+      required: 10
+      safety: false
+    - item: ヘグ・コズミック金属
+      required: 20
+      safety: false
