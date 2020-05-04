@@ -974,7 +974,7 @@
       safety: true
       
 - name: アクセルミサイルガン
-  no: 71473
+  no: 71472
   rank: ルーキー
   recipe:
     - item: GLスフィア
@@ -1068,7 +1068,7 @@
     - item: 暗いGRスフィア
       required: 10
       safety: true
-    - item: 暗いGRスフィア
+    - item: 暗いパラレルコア
       required: 15
       safety: true
     - item: アマムカの弾丸
