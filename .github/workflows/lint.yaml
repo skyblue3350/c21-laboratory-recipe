@@ -11,6 +11,9 @@ jobs:
     container: python:3
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
       - name: install packages
         run: pip install yamllint
 
@@ -22,6 +25,9 @@ jobs:
     needs: [yamllint]
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
       - name: setup node
         uses: actions/setup-node@v1
         with:
