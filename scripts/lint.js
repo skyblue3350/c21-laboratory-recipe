@@ -55,6 +55,7 @@ const lint = async (targetdir) => {
                     }
                     // check item fields type
                     if (typeof item[field] !== def[field]) {
+                        process.exitCode = 1
                         console.error('\x1b[31m', `Invalid field type: ${recipe.name} (${field} not ${def[field]})`)
                     }
                 }
