@@ -1,4 +1,3 @@
-# ここにメイン武器を書く
 - name: ブラックジェラシーライフル★
   no: 37
   rank: 軍曹
@@ -9,7 +8,7 @@
     - item: 狭間の欠片・ポイーン
       required: 100
       safety: false
-      
+
 - name: クロットM82ライフル★
   no: 38
   rank: 軍曹
@@ -20,7 +19,7 @@
     - item: 狭間の欠片・ゲルニア
       required: 100
       safety: false
-      
+
 - name: ラゾートDNLグレネード★
   no: 39
   rank: 軍曹
@@ -31,7 +30,7 @@
     - item: 狭間の欠片・ガルド
       required: 100
       safety: false
-      
+
 - name: ゴールドハンドガン
   no: 70001
   rank: ルーキー
@@ -39,7 +38,7 @@
     - item: シルバーハンドガン
       required: 10
       safety: true
-      
+
 - name: シルバーハンドガン
   no: 70002
   rank: ルーキー
@@ -47,7 +46,7 @@
     - item: ブロンズハンドガン
       required: 10
       safety: true
-      
+
 - name: ゴールドビームガン
   no: 70011
   rank: ルーキー
@@ -55,7 +54,7 @@
     - item: シルバービームガン
       required: 10
       safety: true
-            
+
 - name: シルバービームガン
   no: 70012
   rank: ルーキー
@@ -92,7 +91,7 @@
     - item: ダラビスハーブ
       required: 1
       safety: true
-      
+
 - name: ヘラクレスマグ
   no: 70017
   rank: 中尉
@@ -115,7 +114,7 @@
     - item: イントストーン
       required: 5
       safety: false
-      
+
 - name: ゴールドマスケット
   no: 70021
   rank: ルーキー
@@ -123,7 +122,7 @@
     - item: シルバーマスケット
       required: 10
       safety: true
-      
+
 - name: シルバーマスケット
   no: 70022
   rank: ルーキー
@@ -131,7 +130,7 @@
     - item: ブロンズマスケット
       required: 10
       safety: true
-      
+
 - name: ゴールドハンドマシンガン
   no: 70031
   rank: ルーキー
@@ -214,7 +213,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-     
+
 - name: モーターガン
   no: 70155
   rank: 兵長
@@ -237,7 +236,7 @@
     - item: ダスドの砂
       required: 10
       safety: true
-      
+
 - name: モンキーガン
   no: 70400
   rank: 少尉
@@ -254,7 +253,7 @@
     - item: 秘伝の装甲
       required: 50
       safety: false
-      
+
 - name: ガドラガン
   no: 70410
   rank: 上等兵
@@ -291,7 +290,7 @@
     - item: VDクリスタル4β
       required: 50
       safety: false
-      
+
 - name: ツインガドラガン
   no: 70415
   rank: 上等兵
@@ -342,7 +341,7 @@
     - item: ブッツラスの装甲
       required: 3
       safety: true
-      
+
 - name: EXドレザガン
   no: 70431
   rank: 中尉
@@ -368,7 +367,7 @@
     - item: 耐熱装甲
       required: 15
       safety: false
-      
+
 - name: EXドレザガン
   no: 70432
   rank: 中尉
@@ -394,7 +393,7 @@
     - item: 耐熱装甲
       required: 2
       safety: false
-      
+
 - name: ビームガン改
   no: 70500
   rank: 少尉
@@ -418,7 +417,6 @@
       required: 2
       safety: false
 
-      
 - name: カスタムマグ改
   no: 70501
   rank: 少尉
@@ -434,7 +432,7 @@
       safety: false
     - item: 鋼の装甲
       required: 10
-      safety: 
+      safety: false
     - item: ゲルニアの硬砂
       required: 5
       safety: false
@@ -444,7 +442,7 @@
     - item: アグナル重装甲
       required: 2
       safety: false
-      
+
 - name: プロックダブルマグ
   no: 70710
   rank: 一等兵
@@ -455,7 +453,7 @@
     - item: ゲルニアの輝石
       required: 1
       safety: false
-      
+
 - name: ブラストレールガン【星辰】
   no: 71156
   rank: 少尉
@@ -472,7 +470,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: ファイアクロスボウ改【星辰】
   no: 71207
   rank: 少尉
@@ -506,7 +504,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: ツラースショット
   no: 71430
   rank: 上等兵
@@ -520,7 +518,7 @@
     - item: ドレザウラーの装甲
       required: 3
       safety: true
-      
+
 - name: EXツラースショット
   no: 71431
   rank: 中尉
@@ -546,7 +544,7 @@
     - item: 鋼の重甲
       required: 18
       safety: true
-      
+
 - name: EXツラースショット
   no: 71432
   rank: 中尉
@@ -572,7 +570,7 @@
     - item: 鋼の重甲
       required: 8
       safety: true
-      
+
 - name: タイクーンブラスト
   no: 71433
   rank: 中尉
@@ -624,7 +622,7 @@
     - item: ヘグ・コズミック金属
       required: 20
       safety: false
-      
+
 - name: イーブルブレイカー(1/3)
   no: 71438
   rank: 上等兵
@@ -632,7 +630,7 @@
     - item: デルクリスタル
       required: 2
       safety: true
-      
+
 - name: イーブルブレイカー(2/3)
   no: 71439
   rank: 上等兵
@@ -643,7 +641,7 @@
     - item: キャノンサーキット
       required: 5
       safety: true
-      
+
 - name: イーブルブレイカー(3/3)
   no: 71440
   rank: 軍曹
@@ -663,9 +661,9 @@
     - item: 黄昏のオイル
       required: 5
       safety: true
-      
+
 - name: EXイーブルブレイカ
-  no: 71441 
+  no: 71441
   rank: 中尉
   recipe:
     - item: イーブルブレイカー(3/3)
@@ -686,7 +684,7 @@
     - item: ゲートの破片
       required: 10
       safety: true
-      
+
 - name: PHイーブルブレイカー
   no: 71442
   rank: 中尉
@@ -703,7 +701,7 @@
     - item: 黒炎のコア
       required: 3
       safety: true
-      
+
 - name: BEイーブルブレイカー
   no: 71443
   rank: 中尉
@@ -720,7 +718,7 @@
     - item: 青炎のコア
       required: 3
       safety: true
-      
+
 - name: FLイーブルブレイカー
   no: 71444
   rank: 中尉
@@ -737,7 +735,7 @@
     - item: 紅炎のコア
       required: 3
       safety: true
-      
+
 - name: SHイーブルブレイカー
   no: 71445
   rank: 中尉
@@ -754,7 +752,7 @@
     - item: 雷炎のコア
       required: 3
       safety: true
-      
+
 - name: EXイーブルブレイカー
   no: 71446
   rank: 中尉
@@ -765,7 +763,7 @@
     - item: デルクリスタル
       required: 29
       safety: true
-      
+
 - name: EXイーブルブレイカー
   no: 71447
   rank: 中尉
@@ -776,7 +774,7 @@
     - item: デルクリスタル
       required: 29
       safety: true
-      
+
 - name: EXイーブルブレイカー
   no: 71448
   rank: 中尉
@@ -787,7 +785,7 @@
     - item: デルクリスタル
       required: 29
       safety: true
-      
+
 - name: EXイーブルブレイカー
   no: 71449
   rank: 中尉
@@ -798,7 +796,7 @@
     - item: デルクリスタル
       required: 29
       safety: true
-      
+
 - name: 悪魔軍の教本
   no: 71450
   rank: ルーキー
@@ -806,7 +804,7 @@
     - item: 狭間の欠片・ポイーン
       required: 5
       safety: false
-      
+
 - name: エレキガン★
   no: 71451
   rank: ルーキー
@@ -835,7 +833,7 @@
     - item: アレスターBS'
       required: 1
       safety: true
-      
+
 - name: ライトニングキャノン★
   no: 71460
   rank: 中尉
@@ -861,7 +859,7 @@
     - item: エレクトリックのコア
       required: 1
       safety: true
-      
+
 - name: パルスガン★
   no: 71461
   rank: ルーキー
@@ -972,7 +970,7 @@
     - item: キャット・C HD2'
       required: 1
       safety: true
-      
+
 - name: アクセルミサイルガン
   no: 71472
   rank: ルーキー
@@ -1101,7 +1099,7 @@
     - item: ターンエッジ3DLG'
       required: 1
       safety: true
-      
+
 - name: ラージバスーカ
   no: 71477
   rank: 兵長
@@ -1130,7 +1128,7 @@
     - item: ワイルドフェザリパンBS'
       required: 1
       safety: true
-      
+
 - name: ストライカーライフル
   no: 71480
   rank: 兵長
@@ -1245,7 +1243,7 @@
       required: 99
       safety: true
     - item: 溶岩の液体
-      required: 
+      required: 20
       safety: true
     - item: 試作ツインエレキマグネガン
       required: 1
@@ -1383,7 +1381,7 @@
     - item: シュトルバンカーBS'
       required: 1
       safety: true
-      
+
 - name: ライトニングシューター
   no: 71502
   rank: 兵長
@@ -1560,7 +1558,7 @@
     - item: クロタクスBS'
       required: 1
       safety: true
-      
+
 - name: バーティカルミサイル
   no: 71530
   rank: 兵長
@@ -1613,7 +1611,7 @@
     - item: マリンダイバーBS'
       required: 1
       safety: true
-      
+
 - name: シュレッドショットガン
   no: 71540
   rank: 兵長
@@ -1666,7 +1664,7 @@
     - item: ハディガルムAM'
       required: 1
       safety: true
-      
+
 - name: ペンシルボトムランチャー
   no: 71550
   rank: 兵長
@@ -1725,7 +1723,7 @@
     - item: ハディガルムAM'
       required: 1
       safety: true
-      
+
 - name: ペンシルボトルランチャー
   no: 71551
   rank: 軍曹
@@ -1736,7 +1734,7 @@
     - item: レーヴァ・ブレード★
       required: 10
       safety: true
-      
+
 - name: アクセルミサイルガン【常闇】
   no: 71560
   rank: 軍曹
@@ -1747,7 +1745,7 @@
     - item: スランバーの仮想データ
       required: 5
       safety: true
-      
+
 - name: ヒートガトリングガン【常闇】
   no: 71561
   rank: 軍曹
@@ -1758,7 +1756,7 @@
     - item: スランバーの仮想データ
       required: 5
       safety: true
-      
+
 - name: チャージビームキャノン【常闇】
   no: 71562
   rank: 軍曹
@@ -1769,7 +1767,7 @@
     - item: スランバーの仮想データ
       required: 5
       safety: true
-      
+
 - name: シールドガトリング【常闇】
   no: 71563
   rank: 軍曹
@@ -1780,7 +1778,7 @@
     - item: スランバーの仮想データ
       required: 5
       safety: true
-      
+
 - name: ラピッドパルスミサイル
   no: 71564
   rank: 軍曹
@@ -1791,7 +1789,7 @@
     - item: スランバーの仮想データ
       required: 5
       safety: true
-      
+
 - name: ジュウガライフル
   no: 71710
   rank: 一等兵
@@ -1805,7 +1803,7 @@
     - item: ゲルニアの輝石
       required: 1
       safety: false
-      
+
 - name: ラフネックマシンガン【星辰】
   no: 72122
   rank: 少尉
@@ -1822,7 +1820,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: ラフネックマシンガン★【星辰】
   no: 72123
   rank: 少尉
@@ -1839,7 +1837,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: ラフネックマシンガン★【星辰】
   no: 72124
   rank: 少尉

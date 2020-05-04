@@ -14,7 +14,7 @@
     - item: 黄昏のコイン
       required: 3
       safety: false
-      
+
 - name: F・リュールBD2
   no: 70
   rank: ルーキー
@@ -53,7 +53,7 @@
     - item: タイラントハート・アン
       required: 1
       safety: true
-      
+
 - name: ヘビージャガーアームBD2
   no: 345
   rank: 兵長
@@ -70,7 +70,7 @@
     - item: 被弾した回路
       required: 10
       safety: false
-      
+
 - name: ビッグマンテスTriBD
   no: 481
   rank: 中尉
@@ -124,7 +124,7 @@
     - item: 被弾した回路
       required: 10
       safety: false
-      
+
 - name: マスターペペンBD
   no: 1530
   rank: 兵長
@@ -216,7 +216,7 @@
       required: 5
       safety: false
     - item: VDクリスタル3α
-      required: 5 
+      required: 5
       safety: false
 
 - name: マニモオーガBD

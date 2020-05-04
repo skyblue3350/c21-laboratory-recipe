@@ -55,7 +55,7 @@
 
 - name: 陸戦CRT2 ATK+
   no: 69491
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 30
@@ -72,7 +72,7 @@
 
 - name: 陸戦CRT2 ATK+
   no: 69492
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 15
@@ -92,7 +92,7 @@
 
 - name: 空戦CRT2 ATK+
   no: 69493
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -109,7 +109,7 @@
 
 - name: 空戦CRT2 ATK+
   no: 69494
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -129,7 +129,7 @@
 
 - name: 砲戦CRT2 ATK+
   no: 69495
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -146,7 +146,7 @@
 
 - name: 砲戦CRT2 ATK+
   no: 69496
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -166,7 +166,7 @@
 
 - name: 補助CRT2 ATK+
   no: 69497
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -183,7 +183,7 @@
 
 - name: 補助CRT2 ATK+
   no: 69498
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -203,7 +203,7 @@
 
 - name: 陸戦CRT2 ATK+
   no: 69501
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 30
@@ -220,7 +220,7 @@
 
 - name: 陸戦CRT2 ATK+
   no: 69502
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 15
@@ -240,7 +240,7 @@
 
 - name: 空戦CRT2 ATK+
   no: 69503
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -257,7 +257,7 @@
 
 - name: 空戦CRT2 ATK+
   no: 69504
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -277,7 +277,7 @@
 
 - name: 砲戦CRT2 ATK+
   no: 69505
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -294,7 +294,7 @@
 
 - name: 砲戦CRT2 ATK+
   no: 69506
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -314,7 +314,7 @@
 
 - name: 補助CRT2 ATK+
   no: 69507
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 10
@@ -331,7 +331,7 @@
 
 - name: 補助CRT2 ATK+
   no: 69508
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT ATK+
       required: 5
@@ -351,7 +351,7 @@
 
 - name: 陸戦CRT3 EN/ATK+
   no: 69511
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 陸戦CRT2 EN+
       required: 1
@@ -365,7 +365,7 @@
 
 - name: 空戦CRT3 EN/ATK+
   no: 69512
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 空戦CRT2 EN+
       required: 1
@@ -379,7 +379,7 @@
 
 - name: 砲戦CRT3 EN/ATK+
   no: 69513
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 砲戦CRT2 EN+
       required: 1
@@ -393,7 +393,7 @@
 
 - name: 補助CRT3 EN/ATK+
   no: 69514
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: 補助CRT2 EN+
       required: 1
@@ -556,7 +556,7 @@
 
 - name: オデットウィングAMJ
   no: 92504
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: オディールウィングAMJ
       required: 2

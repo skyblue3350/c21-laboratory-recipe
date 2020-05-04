@@ -1,6 +1,6 @@
 - name: HP拡張キット4
   no: 60031
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: HP拡張キット2
       required: 5
@@ -22,7 +22,7 @@
 
 - name: HP拡張キット2
   no: 60051
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: HP拡張キット
       required: 10
@@ -33,7 +33,7 @@
 
 - name: EN拡張キット4
   no: 60131
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: EN拡張キット2
       required: 5
@@ -55,7 +55,7 @@
 
 - name: EN拡張キット2
   no: 60151
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: EN拡張キット
       required: 10
@@ -66,7 +66,7 @@
 
 - name: ベース拡張キットα2
   no: 60211
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: ベース拡張キットα
       required: 1
@@ -94,7 +94,7 @@
 
 - name: メインパワーギアα2
   no: 61011
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: メインパワーギアα
       required: 1
@@ -139,7 +139,7 @@
 
 - name: メインパワーギアβ2
   no: 61111
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: メインパワーギアβ
       required: 1
@@ -184,7 +184,7 @@
 
 - name: メインパワーギアγ2
   no: 61211
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: メインパワーギアγ
       required: 1
@@ -229,7 +229,7 @@
 
 - name: サブパワーギアα2
   no: 61511
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: サブパワーギアα
       required: 1
@@ -271,7 +271,7 @@
 
 - name: サブパワーギアβ2
   no: 61611
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: サブパワーギアβ
       required: 1
@@ -316,7 +316,7 @@
 
 - name: サブパワーギアγ2
   no: 61711
-  rank: 二等兵
+  rank: 一等兵
   recipe:
     - item: サブパワーギアγ
       required: 1

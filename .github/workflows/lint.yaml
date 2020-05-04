@@ -1,0 +1,40 @@
+name: lint
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    container: python:3
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: install packages
+        run: pip install yamllint
+
+      - name: lint
+        run: yamllint .
+
+  customlint:
+    runs-on: ubuntu-latest
+    needs: [yamllint]
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: install packages
+        run: npm install
+
+      - name: custom lint
+        run: npm run lint
