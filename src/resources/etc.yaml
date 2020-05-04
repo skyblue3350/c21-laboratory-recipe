@@ -20,3 +20,781 @@
     - item: ビームアーマー
       required: 1
       safety: true
+
+- name: 陸戦CRT ATK+
+  no: 69481
+  rank: ルーキー
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 1
+      safety: true
+
+- name: 空戦CRT ATK+
+  no: 69482
+  rank: ルーキー
+  recipe:
+    - item: 空戦CRT ATK+
+      required: 1
+      safety: true
+
+- name: 砲戦CRT ATK+
+  no: 69483
+  rank: ルーキー
+  recipe:
+    - item: 砲戦CRT ATK+
+      required: 1
+      safety: true
+
+- name: 補助CRT ATK+
+  no: 69484
+  rank: ルーキー
+  recipe:
+    - item: 補助CRT ATK+
+      required: 1
+      safety: true
+
+- name: 陸戦CRT2 ATK+
+  no: 69491
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 陸戦CRT2 ATK+
+  no: 69492
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 空戦CRT2 ATK+
+  no: 69493
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 空戦CRT2 ATK+
+  no: 69494
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 砲戦CRT2 ATK+
+  no: 69495
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 砲戦CRT2 ATK+
+  no: 69496
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 補助CRT2 ATK+
+  no: 69497
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 30
+      safety: false
+
+- name: 補助CRT2 ATK+
+  no: 69498
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 15
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 陸戦CRT2 ATK+
+  no: 69501
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 陸戦CRT2 ATK+
+  no: 69502
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 空戦CRT2 ATK+
+  no: 69503
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 空戦CRT2 ATK+
+  no: 69504
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 砲戦CRT2 ATK+
+  no: 69505
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 30
+      safety: false
+    - item: 補助CRT ATK+
+      required: 10
+      safety: false
+
+- name: 砲戦CRT2 ATK+
+  no: 69506
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 15
+      safety: false
+    - item: 補助CRT ATK+
+      required: 5
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 補助CRT2 ATK+
+  no: 69507
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 10
+      safety: false
+    - item: 補助CRT ATK+
+      required: 30
+      safety: false
+
+- name: 補助CRT2 ATK+
+  no: 69508
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 空戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 砲戦CRT ATK+
+      required: 5
+      safety: false
+    - item: 補助CRT ATK+
+      required: 15
+      safety: false
+    - item: プリズムトークン
+      required: 3
+      safety: true
+
+- name: 陸戦CRT3 EN/ATK+
+  no: 69511
+  rank: 二等兵
+  recipe:
+    - item: 陸戦CRT2 EN+
+      required: 1
+      safety: true
+    - item: 陸戦CRT ATK+
+      required: 1
+      safety: true
+    - item: プリズムトークン
+      required: 5
+      safety: true
+
+- name: 空戦CRT3 EN/ATK+
+  no: 69512
+  rank: 二等兵
+  recipe:
+    - item: 空戦CRT2 EN+
+      required: 1
+      safety: true
+    - item: 空戦CRT ATK+
+      required: 1
+      safety: true
+    - item: プリズムトークン
+      required: 5
+      safety: true
+
+- name: 砲戦CRT3 EN/ATK+
+  no: 69513
+  rank: 二等兵
+  recipe:
+    - item: 砲戦CRT2 EN+
+      required: 1
+      safety: true
+    - item: 砲戦CRT ATK+
+      required: 1
+      safety: true
+    - item: プリズムトークン
+      required: 5
+      safety: true
+
+- name: 補助CRT3 EN/ATK+
+  no: 69514
+  rank: 二等兵
+  recipe:
+    - item: 補助CRT2 EN+
+      required: 1
+      safety: true
+    - item: 補助CRT ATK+
+      required: 1
+      safety: true
+    - item: プリズムトークン
+      required: 5
+      safety: true
+
+- name: デルゴリアンAMJ
+  no: 90939
+  rank: 中尉
+  recipe:
+    - item: デルモーター
+      required: 2
+      safety: false
+    - item: ガスタライト
+      required: 30
+      safety: false
+    - item: 黄昏の回路
+      required: 30
+      safety: false
+
+- name: デルゴリアンAMJ★
+  no: 90940
+  rank: 中尉
+  recipe:
+    - item: デルゴリアンAMJ
+      required: 1
+      safety: true
+    - item: エントゥクリスタル
+      required: 1
+      safety: true
+    - item: 大樹のオイル
+      required: 4
+      safety: true
+    - item: デルチートモーター
+      required: 1
+      safety: true
+    - item: デルクリスタル
+      required: 5
+      safety: true
+
+- name: バリアボールAMJ
+  no: 91000
+  rank: 兵長
+  recipe:
+    - item: 塔GRスフィア
+      required: 1
+      safety: true
+    - item: 幻惑のクリスタル
+      required: 4
+      safety: true
+    - item: 狭間の欠片・塔ゲルニア
+      required: 99
+      safety: true
+    - item: 塔GRパラレルコア
+      required: 5
+      safety: true
+    - item: 試作バリアボールAMJ
+      required: 1
+      safety: true
+    - item: P・フォアナBD'
+      required: 1
+      safety: true
+    - item: P・フォアナLG'
+      required: 1
+      safety: true
+    - item: P・フォアナHD'
+      required: 1
+      safety: true
+    - item: P・フォアナAM'
+      required: 1
+      safety: true
+    - item: P・フォアナBS'
+      required: 1
+      safety: true
+    - item: ポセダインLG2'
+      required: 1
+      safety: true
+    - item: ポセダインAM3'
+      required: 1
+      safety: true
+    - item: ジーウェインBD'
+      required: 1
+      safety: true
+    - item: ジーウェインLG'
+      required: 1
+      safety: true
+    - item: ジーウェインHD'
+      required: 1
+      safety: true
+    - item: ジーウェインAM'
+      required: 1
+      safety: true
+    - item: ジーウェインBS'
+      required: 1
+      safety: true
+
+- name: バリアボールAMJ
+  no: 91001
+  rank: 兵長
+  recipe:
+    - item: 塔GRスフィア
+      required: 1
+      safety: true
+    - item: 幻惑のクリスタル
+      required: 4
+      safety: true
+    - item: 狭間の欠片・塔ゲルニア
+      required: 99
+      safety: true
+    - item: 塔GRパラレルコア
+      required: 5
+      safety: true
+    - item: 試作バリアボールAMJ
+      required: 1
+      safety: true
+    - item: ルチア・D BD'
+      required: 1
+      safety: true
+    - item: ルチア・D LG'
+      required: 1
+      safety: true
+    - item: ルチア・D HD'
+      required: 1
+      safety: true
+    - item: ルチア・D AM'
+      required: 1
+      safety: true
+    - item: ルチア・D BS'
+      required: 1
+      safety: true
+    - item: ウォーダスBD'
+      required: 1
+      safety: true
+    - item: ウォーダスLG'
+      required: 1
+      safety: true
+    - item: ウォーダスHD'
+      required: 1
+      safety: true
+    - item: ウォーダスAM'
+      required: 1
+      safety: true
+    - item: ウォーダスBS'
+      required: 1
+      safety: true
+    - item: スマッシュハルバート
+      required: 1
+      safety: true
+    - item: アクセルセイバーBD2'
+      required: 1
+      safety: true
+    - item: アクセルセイバーLG2'
+      required: 1
+      safety: true
+
+- name: オデットウィングAMJ
+  no: 92504
+  rank: 二等兵
+  recipe:
+    - item: オディールウィングAMJ
+      required: 2
+      safety: true
+
+- name: バスターアーマーAMJ★
+  no: 93000
+  rank: 兵長
+  recipe:
+    - item: バスターアーマーAMJ
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 5
+      safety: true
+
+- name: トライアドハイロゥBSJ★
+  no: 93001
+  rank: 兵長
+  recipe:
+    - item: トライアドハイロゥBSJ
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 2
+      safety: true
+
+- name: ガンキャリーAMJ★
+  no: 93002
+  rank: 兵長
+  recipe:
+    - item: ガンキャリーAMJ
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 3
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 2
+      safety: true
+
+- name: ベリルスキッドAMJ2★
+  no: 93003
+  rank: 兵長
+  recipe:
+    - item: ベリルスキッドAMJ2
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 2
+      safety: true
+
+- name: イルミスLGJ
+  no: 93004
+  rank: ルーキー
+  recipe:
+    - item: ダミーパーツ
+      required: 1
+      safety: true
+
+- name: ラグナバレットAMJ★
+  no: 93005
+  rank: ルーキー
+  recipe:
+    - item: ラグナバレットAMJ
+      required: 5
+      safety: true
+
+- name: イルグリプスAMJ★
+  no: 93006
+  rank: ルーキー
+  recipe:
+    - item: イルグリプスAMJ
+      required: 5
+      safety: true
+
+- name: ギガンベルグAMJ★
+  no: 93007
+  rank: ルーキー
+  recipe:
+    - item: ギガンベルグAMJ
+      required: 5
+      safety: true
+
+- name: ティルージュAMJ★
+  no: 93008
+  rank: ルーキー
+  recipe:
+    - item: ティルージュAMJ
+      required: 5
+      safety: true
+
+- name: スレッジヘイムAMJ★
+  no: 93009
+  rank: ルーキー
+  recipe:
+    - item: スレッジヘイムAMJ
+      required: 5
+      safety: true
+
+- name: アグニザインAMJ★
+  no: 93010
+  rank: ルーキー
+  recipe:
+    - item: アグニザインAMJ
+      required: 5
+      safety: true
+
+- name: ザリドLGJ★
+  no: 93011
+  rank: ルーキー
+  recipe:
+    - item: ザリドLGJ
+      required: 5
+      safety: true
+
+- name: ノーブルLGJ
+  no: 93201
+  rank: 少尉
+  recipe:
+    - item: コズミックコイン
+      required: 5
+      safety: true
+
+- name: ノーブルナイトLGJ
+  no: 93202
+  rank: 少尉
+  recipe:
+    - item: ノーブルLGJ
+      required: 1
+      safety: true
+    - item: ゴールドチケットSP
+      required: 20
+      safety: false
+    - item: コズミックコイン
+      required: 20
+      safety: true
+
+- name: ノーブルジャックLGJ-M
+  no: 93203
+  rank: 少尉
+  recipe:
+    - item: ノーブルナイトLGJ
+      required: 1
+      safety: true
+    - item: ゴールドチケットSP
+      required: 40
+      safety: false
+    - item: プリズムトークン
+      required: 30
+      safety: true
+    - item: 燃えたぎるコイン
+      required: 20
+      safety: false
+    - item: 黄昏のコイン
+      required: 20
+      safety: false
+
+- name: ノーブルクイーンLGJ-M
+  no: 93204
+  rank: 少尉
+  recipe:
+    - item: ノーブルナイトLGJ
+      required: 1
+      safety: true
+    - item: ゴールドチケットSP
+      required: 40
+      safety: false
+    - item: プリズムトークン
+      required: 30
+      safety: true
+    - item: ガラクタコイン
+      required: 20
+      safety: false
+    - item: 硬岩のメダリオン
+      required: 20
+      safety: false
+
+- name: ノーブルジャックLGJ-L
+  no: 93207
+  rank: 少尉
+  recipe:
+    - item: ノーブルナイトLGJ
+      required: 1
+      safety: true
+    - item: ゴールドチケットSP
+      required: 40
+      safety: false
+    - item: プリズムトークン
+      required: 30
+      safety: true
+    - item: 燃えたぎるコイン
+      required: 20
+      safety: false
+    - item: 黄昏のコイン
+      required: 20
+      safety: false
+
+- name: ノーブルクイーンLGJ-L
+  no: 93208
+  rank: 少尉
+  recipe:
+    - item: ノーブルナイトLGJ
+      required: 1
+      safety: true
+    - item: ゴールドチケットSP
+      required: 40
+      safety: false
+    - item: プリズムトークン
+      required: 30
+      safety: true
+    - item: ガラクタコイン
+      required: 20
+      safety: false
+    - item: 硬岩のメダリオン
+      required: 20
+      safety: false
