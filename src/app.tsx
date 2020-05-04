@@ -63,6 +63,7 @@ export default class App extends React.Component<Props, State> {
 
     changeFilter(data: DropdownProps) {
         this.setState({
+            open: -1,
             filter: data.value as filter
         }, () => {
             this.searchRecipes()
@@ -71,6 +72,7 @@ export default class App extends React.Component<Props, State> {
 
     changeKeyword(data: InputOnChangeData) {
         this.setState({
+            open: -1,
             keyword: data.value
         }, () => {
             this.searchRecipes()
