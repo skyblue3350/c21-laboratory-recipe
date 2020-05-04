@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --config webpack.dev.config.js",
-    "prod": "webpack --config webpack.prod.config.js"
+    "prod": "webpack --config webpack.prod.config.js",
+    "lint": "node scripts/lint.js"
   },
   "repository": {
     "type": "git",
