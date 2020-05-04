@@ -25,6 +25,7 @@ const lint = async (targetdir) => {
 
             // check no type
             if (typeof recipe.no !== 'number') {
+                process.exitCode = 1
                 console.error('\x1b[31m', `Invalid field type: ${recipe.name} (${field} not number)`)
             } else {
                 // check duplication
@@ -37,6 +38,7 @@ const lint = async (targetdir) => {
 
             // check rank
             if (!['ルーキー', '一等兵', '上等兵', '兵長', '軍曹', '少尉', '中尉', '大尉'].includes(recipe.rank)) {
+                process.exitCode = 1
                 console.error('\x1b[31m', `Invalid rank name: ${recipe.name} (${recipe.rank})`)
             }
 
@@ -68,6 +70,8 @@ const lint = async (targetdir) => {
     } else {
         console.error('\x1b[31m', 'There were some errors please check it')
     }
+
+    process.exit(process.exitCode)
 }
 
 lint('./src/resources/')
