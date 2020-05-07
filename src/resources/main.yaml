@@ -1882,7 +1882,7 @@
     - item: 秘伝の装甲
       required: 50
       safety: false
-      
+
 - name: ウガガリゲイズ
   no: 72430
   rank: 上等兵
@@ -2017,7 +2017,7 @@
     - item: ブタークBD2
       required: 10
       safety: false
-      
+
 - name: コブリンマシンガン
   no: 72710
   rank: ルーキー
@@ -2133,7 +2133,7 @@
     - item: カムーリンHD
       required: 4
       safety: false
-      
+
 - name: ヤクサイカヅチ
   no: 76142
   rank: 少尉
@@ -2156,7 +2156,7 @@
     - item: 黄金のコイン
       required: 5
       safety: false
-      
+
 - name: VDヤクサイカヅチ
   no: 76144
   rank: 中尉
@@ -2173,7 +2173,7 @@
     - item: VDクリスタル3α
       required: 15
       safety: false
-      
+
 - name: スコッピスロアー
   no: 76430
   rank: 上等兵
@@ -2187,7 +2187,7 @@
     - item: ウガガリーの装甲
       required: 3
       safety: true
-      
+
 - name: EXスコッピスロアー
   no: 76431
   rank: 中尉
@@ -2213,7 +2213,7 @@
     - item: アヌビプレート
       required: 8
       safety: true
-      
+
 - name: ギガスロアー
   no: 76432
   rank: 中尉
@@ -2282,7 +2282,7 @@
     - item: アストラルキューブ
       required: 1
       safety: false
-      
+
 - name: ミサイルハイヴ
   no: 76445
   rank: 中尉
@@ -2294,7 +2294,7 @@
       required: 3
       safety: false
     - item: リニアマシーン
-      required: 7 
+      required: 7
       safety: false
     - item: メビウスシャフト
       required: 11
@@ -2312,7 +2312,6 @@
       required: 40
       safety: false
 
-      
 - name: BSLランチャー
   no: 76450
   rank: 少尉
@@ -2332,7 +2331,7 @@
     - item: プリズムトークン
       required: 1
       safety: true
-      
+
 - name: エントゥバズーカ
   no: 76465
   rank: 中尉
@@ -2384,7 +2383,7 @@
     - item: 【コア】アグルナコア
       required: 2
       safety: false
-      
+
 - name: ダムツリーバズーカ
   no: 76710
   rank: ルーキー
@@ -2394,7 +2393,7 @@
       safety: false
     - item: ポイーンの輝石
       required: 1
-      safety: false 
+      safety: false
 
 - name: ギャラモバズーカ
   no: 76711
@@ -2423,7 +2422,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: ライトニングブラスターα【星辰】
   no: 77102
   rank: 少尉
@@ -2440,7 +2439,7 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
+
 - name: アサルトショットガン
   no: 77400
   rank: 中尉
@@ -2454,7 +2453,7 @@
     - item: VDクリスタル4α
       required: 15
       safety: false
-      
+
 - name: グリーチャーブラスター
   no: 77710
   rank: 兵長
@@ -2468,7 +2467,7 @@
     - item: デゴの輝石
       required: 1
       safety: false
-      
+
 - name: ビグモスショットガン
   no: 77711
   rank: 兵長
@@ -2479,7 +2478,7 @@
     - item: デゴの輝石
       required: 1
       safety: false
-      
+
 - name: ニーテシールド
   no: 78565
   rank: 中尉
@@ -2493,7 +2492,7 @@
     - item: アグルナ重装甲
       required: 10
       safety: false
-      
+
 - name: アグルナシールド
   no: 78566
   rank: 中尉
@@ -2513,7 +2512,7 @@
     - item: センチネルプレート
       required: 3
       safety: false
-      
+
 - name: バンガーランチャー【星辰】
   no: 78586
   rank: 少尉
@@ -2530,8 +2529,8 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
-      
- name: ヘキサランチャー
+
+- name: ヘキサランチャー
   no: 78595
   rank: 中尉
   recipe:
@@ -2547,8 +2546,8 @@
     - item: VDクリスタル4β
       required: 15
       safety: false
-      
- name: ヘキサランチャー【星辰】
+
+- name: ヘキサランチャー【星辰】
   no: 78596
   rank: 中尉
   recipe:
@@ -2567,7 +2566,7 @@
     - item: VDクリスタル5β
       required: 5
       safety: false
-     
+
 - name: グランダムランチャー
   no: 78711
   rank: 一等兵
@@ -2581,7 +2580,7 @@
     - item: ゲルニアの輝石
       required: 1
       safety: false
-      
+
 - name: ラクダロスグレネード
   no: 78712
   rank: 上等兵
@@ -2592,7 +2591,7 @@
     - item: ガルドの輝石
       required: 1
       safety: false
-      
+
 - name: ジャスティスビームガン★
   no: 79000
   rank: 兵長
@@ -2606,7 +2605,7 @@
     - item: 古代結晶の秘石 火
       required: 5
       safety: true
-      
+
 - name: ベリルガンランチャー★
   no: 79001
   rank: 兵長
@@ -2642,10 +2641,10 @@
     - item: タイクーンバースト
       required: 1
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 10
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 5
       safety: true
 
@@ -2684,10 +2683,10 @@
     - item: ピアースブレイカー★
       required: 1
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 10
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 5
       safety: true
 
@@ -2729,7 +2728,7 @@
     - item: 古代結晶の秘石 月
       required: 1
       safety: true
-      
+
 - name: ツインガドラヴェノム★
   no: 79010
   rank: 兵長
@@ -2744,7 +2743,6 @@
       required: 1
       safety: true
 
-
 - name: ベリルストライカー★
   no: 79011
   rank: 兵長
@@ -2758,7 +2756,7 @@
     - item: 古代結晶の秘石 土
       required: 3
       safety: true
-      
+
 - name: ベリルストライカーβ★
   no: 79012
   rank: 兵長
@@ -2836,13 +2834,13 @@
     - item: ロングビームキャノン改
       required: 1
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 4
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 2
       safety: true
-    - item: 古代結晶の秘石 
+    - item: 古代結晶の秘石
       required: 2
       safety: true
 
@@ -2904,7 +2902,7 @@
     - item: 古代結晶の秘石 火
       required: 3
       safety: true
-      
+
 - name: アサルトショットガン★【星辰】
   no: 79022
   rank: 兵長
@@ -2929,7 +2927,7 @@
     - item: 古代結晶の秘石 土
       required: 3
       safety: true
-      
+
 - name: ベルグクラスターガン★
   no: 79024
   rank: ルーキー
@@ -2937,7 +2935,7 @@
     - item: ベルグクラスターガン
       required: 5
       safety: true
-      
+
 - name: EXツラースショット
   no: 79901
   rank: 中尉
@@ -2963,7 +2961,7 @@
     - item: 鋼の重甲
       required: 18
       safety: true
-      
+
 - name: EXツラースショット
   no: 79902
   rank: 中尉
