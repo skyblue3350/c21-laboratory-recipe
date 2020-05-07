@@ -2641,10 +2641,10 @@
     - item: タイクーンバースト
       required: 1
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 木
       required: 10
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 金
       required: 5
       safety: true
 
@@ -2683,10 +2683,10 @@
     - item: ピアースブレイカー★
       required: 1
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 土
       required: 10
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 日
       required: 5
       safety: true
 
@@ -2814,7 +2814,7 @@
       safety: true
 
 - name: スターダストキャノン改★
-  no: 79015
+  no: 79016
   rank: 兵長
   recipe:
     - item: スターダストキャノン改
@@ -2834,14 +2834,13 @@
     - item: ロングビームキャノン改
       required: 1
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 日
       required: 4
       safety: true
-    - item: 古代結晶の秘石
+    - item: 古代結晶の秘石 月
       required: 2
       safety: true
-    - item: 古代結晶の秘石
-      required: 2
+    - item: 古代結晶の秘石 火
       safety: true
 
 - name: プリズムスフィア★
