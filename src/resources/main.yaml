@@ -2841,6 +2841,7 @@
       required: 2
       safety: true
     - item: 古代結晶の秘石 火
+      required: 2
       safety: true
 
 - name: プリズムスフィア★
