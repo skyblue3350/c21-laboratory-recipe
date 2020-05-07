@@ -1865,3 +1865,1127 @@
     - item: VDクリスタル3β
       required: 1
       safety: false
+
+- name: デカムカガン
+  no: 72400
+  rank: 少尉
+  recipe:
+    - item: デカムカBD2
+      required: 5
+      safety: true
+    - item: デカムカHD
+      required: 10
+      safety: false
+    - item: 秘伝の回路
+      required: 50
+      safety: false
+    - item: 秘伝の装甲
+      required: 50
+      safety: false
+      
+- name: ウガガリゲイズ
+  no: 72430
+  rank: 上等兵
+  recipe:
+    - item: 5th記念硬貨
+      required: 2
+      safety: false
+    - item: ウガガリーの装甲
+      required: 3
+      safety: true
+    - item: スコッピオの装甲
+      required: 3
+      safety: true
+
+- name: EXウガガリゲイズ
+  no: 72431
+  rank: 中尉
+  recipe:
+    - item: ウガガリゲイズ
+      required: 1
+      safety: false
+    - item: EXマシンガン
+      required: 1
+      safety: true
+    - item: キャノンサーキット
+      required: 40
+      safety: true
+    - item: 幻猿のコア
+      required: 3
+      safety: true
+    - item: ブッツラスの装甲
+      required: 10
+      safety: false
+    - item: デグ・コズミック金属
+      required: 5
+      safety: false
+    - item: ゲルニアの硬砂
+      required: 4
+      safety: false
+
+- name: EXウガガリゲイズ
+  no: 72432
+  rank: 中尉
+  recipe:
+    - item: ウガガリゲイズ
+      required: 1
+      safety: false
+    - item: EXマシンガン
+      required: 1
+      safety: true
+    - item: フェザーチップ・集
+      required: 4
+      safety: true
+    - item: 幻猿のコア
+      required: 3
+      safety: true
+    - item: ブッツラスの装甲
+      required: 10
+      safety: false
+    - item: デグ・コズミック金属
+      required: 5
+      safety: false
+    - item: ゲルニアの硬砂
+      required: 4
+      safety: false
+
+- name: センチネルガトリング
+  no: 72433
+  rank: 中尉
+  recipe:
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: ビームランチャー改
+      required: 1
+      safety: true
+    - item: センチネルAI
+      required: 3
+      safety: false
+    - item: センチネルブレード
+      required: 2
+      safety: false
+    - item: センチネルプレート
+      required: 2
+      safety: false
+
+- name: Wセンチネルガトリング
+  no: 72434
+  rank: 中尉
+  recipe:
+    - item: センチネルガトリング
+      required: 2
+      safety: true
+    - item: リニアマシーン
+      required: 7
+      safety: false
+    - item: メビウスシャフト
+      required: 5
+      safety: false
+    - item: アストラルキューブ
+      required: 1
+      safety: false
+    - item: ヘグ・コズミック金属
+      required: 2
+      safety: false
+    - item: ゲートの破片
+      required: 13
+      safety: false
+    - item: 古びたオイル
+      required: 16
+      safety: false
+
+- name: EXドラムマシンガン
+  no: 72523
+  rank: 軍曹
+  recipe:
+    - item: フィジカルのコア
+      required: 7
+      safety: false
+    - item: ビームのコア
+      required: 7
+      safety: false
+    - item: エレクトリックのコア
+      required: 7
+      safety: false
+    - item: ブタークのコア
+      required: 20
+      safety: false
+    - item: アルモスライト
+      required: 30
+      safety: false
+    - item: ブタークBD2
+      required: 10
+      safety: false
+      
+- name: コブリンマシンガン
+  no: 72710
+  rank: ルーキー
+  recipe:
+    - item: コブリンHD
+      required: 8
+      safety: false
+    - item: ポイーンの輝石
+      required: 1
+      safety: false
+
+- name: ガルマジロマシンガン
+  no: 72711
+  rank: 上等兵
+  recipe:
+    - item: ガルマジロBD
+      required: 5
+      safety: false
+    - item: ガルドの輝石
+      required: 1
+      safety: false
+
+- name: プラズマキャノン【星辰】
+  no: 76074
+  rank: 少尉
+  recipe:
+    - item: プラズマキャノン
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: デルタロケットランチャー【星辰】
+  no: 76087
+  rank: 少尉
+  recipe:
+    - item: デルタロケットランチャー
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: シリンダーバズ【星辰】
+  no: 76116
+  rank: 少尉
+  recipe:
+    - item: シリンダーバス
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: クレナイバスーカ
+  no: 76140
+  rank: 少尉
+  recipe:
+    - item: ガスターの砂
+      required: 3
+      safety: false
+    - item: 黄昏のオイル
+      required: 3
+      safety: false
+    - item: 黄昏の装甲
+      required: 3
+      safety: false
+    - item: ガシ・コズミック金属
+      required: 2
+      safety: false
+    - item: ガンフレーム・L
+      required: 1
+      safety: false
+
+- name: ヤクサオオヅツ
+  no: 76141
+  rank: 少尉
+  recipe:
+    - item: クレナイバスーカ
+      required: 1
+      safety: false
+    - item: ガスタライト
+      required: 8
+      safety: false
+    - item: 黄昏の回路
+      required: 8
+      safety: false
+    - item: 黄昏の装甲
+      required: 5
+      safety: false
+    - item: カムイの宝玉
+      required: 5
+      safety: false
+    - item: カムーリンHD
+      required: 4
+      safety: false
+      
+- name: ヤクサイカヅチ
+  no: 76142
+  rank: 少尉
+  recipe:
+    - item: ヤクサオオヅツ
+      required: 1
+      safety: true
+    - item: デルチートモーター
+      required: 5
+      safety: false
+    - item: サバスクリスタル
+      required: 5
+      safety: false
+    - item: 皇帝の大宝玉
+      required: 5
+      safety: false
+    - item: フェアライトマズル
+      required: 20
+      safety: false
+    - item: 黄金のコイン
+      required: 5
+      safety: false
+      
+- name: VDヤクサイカヅチ
+  no: 76144
+  rank: 中尉
+  recipe:
+    - item: ヤクサイカヅチ
+      required: 1
+      safety: true
+    - item: VDクリスタル1α
+      required: 10
+      safety: false
+    - item: VDクリスタル2α
+      required: 40
+      safety: false
+    - item: VDクリスタル3α
+      required: 15
+      safety: false
+      
+- name: スコッピスロアー
+  no: 76430
+  rank: 上等兵
+  recipe:
+    - item: 5th記念硬貨
+      required: 2
+      safety: false
+    - item: スコッピオの装甲
+      required: 3
+      safety: true
+    - item: ウガガリーの装甲
+      required: 3
+      safety: true
+      
+- name: EXスコッピスロアー
+  no: 76431
+  rank: 中尉
+  recipe:
+    - item: スコッピスロアー
+      required: 1
+      safety: false
+    - item: EXハンドバズーカ
+      required: 1
+      safety: false
+    - item: キャノンサーキット
+      required: 40
+      safety: true
+    - item: 磁蠍のコア
+      required: 3
+      safety: true
+    - item: ドレザウラーの装甲
+      required: 10
+      safety: false
+    - item: 硬岩の重片
+      required: 4
+      safety: false
+    - item: アヌビプレート
+      required: 8
+      safety: true
+      
+- name: ギガスロアー
+  no: 76432
+  rank: 中尉
+  recipe:
+    - item: EXスコッピスロアー
+      required: 1
+      safety: false
+    - item: ギガドプレート
+      required: 3
+      safety: true
+    - item: 黄昏のコイン
+      required: 8
+      safety: true
+    - item: ガルドの輝石
+      required: 4
+      safety: false
+    - item: スウェルAM3
+      required: 1
+      safety: false
+    - item: 秘伝の砂
+      required: 6
+      safety: false
+    - item: 空間転送回路
+      required: 10
+      safety: true
+
+- name: ビザインミサイル
+  no: 76440
+  rank: 中尉
+  recipe:
+    - item: ガンフレームL
+      required: 1
+      safety: false
+    - item: アヌビプレート
+      required: 8
+      safety: false
+    - item: アヌビシャフト
+      required: 7
+      safety: false
+    - item: 汚染された爪
+      required: 10
+      safety: false
+    - item: 陰惨な邪眼
+      required: 3
+      safety: false
+    - item: 英知のコア
+      required: 5
+      safety: false
+    - item: アダフェイトコア
+      required: 5
+      safety: false
+
+- name: EXビザインミサイル
+  no: 76441
+  rank: 大尉
+  recipe:
+    - item: ビザインミサイル
+      required: 1
+      safety: true
+    - item: カノプスプレート
+      required: 20
+      safety: true
+    - item: ゲートの破片
+      required: 20
+      safety: false
+    - item: アストラルキューブ
+      required: 1
+      safety: false
+      
+- name: ミサイルハイヴ
+  no: 76445
+  rank: 中尉
+  recipe:
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: 古代の結晶体
+      required: 3
+      safety: false
+    - item: リニアマシーン
+      required: 7 
+      safety: false
+    - item: メビウスシャフト
+      required: 11
+      safety: false
+    - item: サバスのオーブ
+      required: 3
+      safety: false
+    - item: アストラルキューブ
+      required: 1
+      safety: false
+    - item: ヘグ・コズミック金属
+      required: 6
+      safety: false
+    - item: 古の部品
+      required: 40
+      safety: false
+
+      
+- name: BSLランチャー
+  no: 76450
+  rank: 少尉
+  recipe:
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: リーグフェザー・焔
+      required: 6
+      safety: true
+    - item: リーグフェザー・集
+      required: 6
+      safety: true
+    - item: リーグフェザー・得
+      required: 6
+      safety: true
+    - item: プリズムトークン
+      required: 1
+      safety: true
+      
+- name: エントゥバズーカ
+  no: 76465
+  rank: 中尉
+  recipe:
+    - item: エントゥクリスタル
+      required: 1
+      safety: true
+    - item: 大樹のオイル
+      required: 4
+      safety: true
+    - item: ソーラーコイン
+      required: 2
+      safety: true
+    - item: 燃えたぎる破片
+      required: 2
+      safety: true
+    - item: 燃えたぎるトゲ
+      required: 2
+      safety: true
+
+- name: ビームランチャー改
+  no: 76500
+  rank: 少尉
+  recipe:
+    - item: ビームランチャー
+      required: 1
+      safety: true
+    - item: ガンフレームL
+      required: 1
+      safety: true
+    - item: ゲルニアの硬砂
+      required: 5
+      safety: false
+    - item: 硬岩の重片
+      required: 5
+      safety: false
+    - item: 鋼の重甲
+      required: 5
+      safety: false
+    - item: 岩の鋭いトゲ
+      required: 5
+      safety: false
+    - item: アグルナ重装甲
+      required: 2
+      safety: false
+    - item: アグルナアイ
+      required: 2
+      safety: false
+    - item: 【コア】アグルナコア
+      required: 2
+      safety: false
+      
+- name: ダムツリーバズーカ
+  no: 76710
+  rank: ルーキー
+  recipe:
+    - item: ダムツリーBD
+      required: 7
+      safety: false
+    - item: ポイーンの輝石
+      required: 1
+      safety: false 
+
+- name: ギャラモバズーカ
+  no: 76711
+  rank: 上等兵
+  recipe:
+    - item: ギャラモBD
+      required: 3
+      safety: false
+    - item: ガルドの輝石
+      required: 1
+      safety: false
+
+- name: ウィンチ・スター【星辰】
+  no: 77062
+  rank: 少尉
+  recipe:
+    - item: ウィンチ・スター
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: ライトニングブラスターα【星辰】
+  no: 77102
+  rank: 少尉
+  recipe:
+    - item: ライトニングブラスターα
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+- name: アサルトショットガン
+  no: 77400
+  rank: 中尉
+  recipe:
+    - item: VDクリスタル2α
+      required: 10
+      safety: false
+    - item: VDクリスタル3α
+      required: 40
+      safety: false
+    - item: VDクリスタル4α
+      required: 15
+      safety: false
+      
+- name: グリーチャーブラスター
+  no: 77710
+  rank: 兵長
+  recipe:
+    - item: アイスブーチャーHD
+      required: 5
+      safety: false
+    - item: グリーチャーLG
+      required: 5
+      safety: false
+    - item: デゴの輝石
+      required: 1
+      safety: false
+      
+- name: ビグモスショットガン
+  no: 77711
+  rank: 兵長
+  recipe:
+    - item: ビグモスLG
+      required: 1
+      safety: false
+    - item: デゴの輝石
+      required: 1
+      safety: false
+      
+- name: ニーテシールド
+  no: 78565
+  rank: 中尉
+  recipe:
+    - item: 硬岩の重片
+      required: 5
+      safety: false
+    - item: 岩の鋭いトゲ
+      required: 5
+      safety: false
+    - item: アグルナ重装甲
+      required: 10
+      safety: false
+      
+- name: アグルナシールド
+  no: 78566
+  rank: 中尉
+  recipe:
+    - item: ニートシールド
+      required: 1
+      safety: true
+    - item: ビームガン改
+      required: 1
+      safety: true
+    - item: アグルナアイ
+      required: 2
+      safety: false
+    - item: 【コア】アグルナコア
+      required: 2
+      safety: false
+    - item: センチネルプレート
+      required: 3
+      safety: false
+      
+- name: バンガーランチャー【星辰】
+  no: 78586
+  rank: 少尉
+  recipe:
+    - item: バンガーランチャー
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+      
+ name: ヘキサランチャー
+  no: 78595
+  rank: 中尉
+  recipe:
+    - item: ボックスミサイル
+      required: 1
+      safety: true
+    - item: VDクリスタル2β
+      required: 10
+      safety: false
+    - item: VDクリスタル3β
+      required: 40
+      safety: false
+    - item: VDクリスタル4β
+      required: 15
+      safety: false
+      
+ name: ヘキサランチャー【星辰】
+  no: 78596
+  rank: 中尉
+  recipe:
+    - item: ヘキサランチャー
+      required: 1
+      safety: true
+    - item: VDクリスタル2β
+      required: 5
+      safety: false
+    - item: VDクリスタル3β
+      required: 5
+      safety: false
+    - item: VDクリスタル4β
+      required: 3
+      safety: false
+    - item: VDクリスタル5β
+      required: 5
+      safety: false
+     
+- name: グランダムランチャー
+  no: 78711
+  rank: 一等兵
+  recipe:
+    - item: グランダムBD
+      required: 6
+      safety: false
+    - item: グランダムBS
+      required: 6
+      safety: false
+    - item: ゲルニアの輝石
+      required: 1
+      safety: false
+      
+- name: ラクダロスグレネード
+  no: 78712
+  rank: 上等兵
+  recipe:
+    - item: ラクダロスLG
+      required: 5
+      safety: false
+    - item: ガルドの輝石
+      required: 1
+      safety: false
+      
+- name: ジャスティスビームガン★
+  no: 79000
+  rank: 兵長
+  recipe:
+    - item: ジャスティスビームガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 5
+      safety: true
+      
+- name: ベリルガンランチャー★
+  no: 79001
+  rank: 兵長
+  recipe:
+    - item: ベリルガンランチャー
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 5
+      safety: true
+
+- name: アンプリファイブレイカー★
+  no: 79002
+  rank: 兵長
+  recipe:
+    - item: アンプリファイブレイカー
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 5
+      safety: true
+
+- name: タイクーンバースト★
+  no: 79003
+  rank: 兵長
+  recipe:
+    - item: タイクーンバースト
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 5
+      safety: true
+
+- name: フォールナパーム★
+  no: 79004
+  rank: 兵長
+  recipe:
+    - item: フォールナパーム
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 5
+      safety: true
+
+- name: ヘヴィアーティラリガン★
+  no: 79005
+  rank: 兵長
+  recipe:
+    - item: ヘヴィアーティラリガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 5
+      safety: true
+
+- name: ピアースブレイカー★★
+  no: 79006
+  rank: 兵長
+  recipe:
+    - item: ピアースブレイカー★
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 10
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 5
+      safety: true
+
+- name: ビットガン改★
+  no: 79007
+  rank: 兵長
+  recipe:
+    - item: ビットガン改
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 1
+      safety: true
+
+- name: ラフネックマシンガン★
+  no: 79008
+  rank: 兵長
+  recipe:
+    - item: ラフネックマシンガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 2
+      safety: true
+
+- name: スピニングマグナム★
+  no: 79009
+  rank: 兵長
+  recipe:
+    - item: スピニングマグナム
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 1
+      safety: true
+      
+- name: ツインガドラヴェノム★
+  no: 79010
+  rank: 兵長
+  recipe:
+    - item: ツインガドラヴェノム
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 1
+      safety: true
+
+
+- name: ベリルストライカー★
+  no: 79011
+  rank: 兵長
+  recipe:
+    - item: ベリルストライカー
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 3
+      safety: true
+      
+- name: ベリルストライカーβ★
+  no: 79012
+  rank: 兵長
+  recipe:
+    - item: ベリルストライカーβ
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 1
+      safety: true
+
+- name: ライトニングキャノン★★
+  no: 79013
+  rank: 兵長
+  recipe:
+    - item: ライトニングキャノン★
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 2
+      safety: true
+
+- name: エレキビットガン★
+  no: 79014
+  rank: 兵長
+  recipe:
+    - item: エレキビットガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 2
+      safety: true
+
+- name: ギガツインブラスター★
+  no: 79015
+  rank: 兵長
+  recipe:
+    - item: ギガツインブラスター
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 2
+      safety: true
+
+- name: スターダストキャノン改★
+  no: 79015
+  rank: 兵長
+  recipe:
+    - item: スターダストキャノン改
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 5
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 3
+      safety: true
+
+- name: ロングビームキャノン改★
+  no: 79017
+  rank: 兵長
+  recipe:
+    - item: ロングビームキャノン改
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 
+      required: 2
+      safety: true
+
+- name: プリズムスフィア★
+  no: 79018
+  rank: 兵長
+  recipe:
+    - item: プラズマスフィア
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 2
+      safety: true
+
+- name: ビームエッジガン★
+  no: 79019
+  rank: 兵長
+  recipe:
+    - item: ビームエッジガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 3
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 3
+      safety: true
+
+- name: バリスティックランチャーα★
+  no: 79020
+  rank: 兵長
+  recipe:
+    - item: バリスティックランチャーα
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 3
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 3
+      safety: true
+
+- name: ブラストレールガン★【星辰】
+  no: 79021
+  rank: 兵長
+  recipe:
+    - item: ブラストレールガン【星辰】
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 3
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 3
+      safety: true
+      
+- name: アサルトショットガン★【星辰】
+  no: 79022
+  rank: 兵長
+  recipe:
+    - item: アサルトショットガン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 2
+      safety: true
+
+- name: ファイヤクロスボウ改★【星辰】
+  no: 79023
+  rank: 兵長
+  recipe:
+    - item: ファイヤクロスボウ改【星辰】
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 3
+      safety: true
+    - item: 古代結晶の秘石 土
+      required: 3
+      safety: true
+      
+- name: ベルグクラスターガン★
+  no: 79024
+  rank: ルーキー
+  recipe:
+    - item: ベルグクラスターガン
+      required: 5
+      safety: true
+      
+- name: EXツラースショット
+  no: 79901
+  rank: 中尉
+  recipe:
+    - item: ツラースショット
+      required: 1
+      safety: false
+    - item: EXトリモチライフル
+      required: 1
+      safety: true
+    - item: サポートサーキット
+      required: 40
+      safety: true
+    - item: 機械樹のコア
+      required: 3
+      safety: true
+    - item: ウガガリーの装甲
+      required: 10
+      safety: false
+    - item: プーシャの砂
+      required: 8
+      safety: false
+    - item: 鋼の重甲
+      required: 18
+      safety: true
+      
+- name: EXツラースショット
+  no: 79901
+  rank: 中尉
+  recipe:
+    - item: ツラースショット
+      required: 1
+      safety: false
+    - item: EXトリモチライフル
+      required: 1
+      safety: true
+    - item: フェザーチップ・集
+      required: 4
+      safety: true
+    - item: 機械樹のコア
+      required: 3
+      safety: true
+    - item: ウガガリーの装甲
+      required: 10
+      safety: false
+    - item: プーシャの砂
+      required: 8
+      safety: false
+    - item: 鋼の重甲
+      required: 8
+      safety: true
