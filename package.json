@@ -44,6 +44,6 @@
     "@types/semantic-ui": "^2.2.7",
     "@types/webpack": "^4.41.12",
     "js-yaml": "^3.13.1",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.11.0"
   }
 }
