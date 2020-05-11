@@ -32,7 +32,6 @@ export interface Props extends RouteComponentProps<{}> {
 }
 
 export interface State {
-    recipes: Recepi[]
     open: number
     filter: filter
     keyword: string
@@ -62,7 +61,6 @@ export default class IndexPage extends React.Component<Props, State> {
         const query = queryString.parse(this.props.location.search) as {filter: filter, keyword: string}
 
         this.state = {
-            recipes: this.recipes,
             open: -1,
             filter: this.filter.some((item) => item.value === query.filter)? query.filter : 'all',
             keyword: query.keyword,
