@@ -4,8 +4,6 @@ import { Container } from 'semantic-ui-react'
 import IndexPage from './routes/indexPage'
 
 
-type filter = 'all' | 'hd' | 'bd' | 'lg' | 'am' | 'bs' | 'ac' | 'main' | 'sub' | 'etc'
-
 export interface Props {
 }
 
