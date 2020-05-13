@@ -63,7 +63,7 @@ export default class IndexPage extends React.Component<Props, State> {
         this.state = {
             open: -1,
             filter: this.filter.some((item) => item.value === query.filter)? query.filter : 'all',
-            keyword: query.keyword,
+            keyword: query.keyword || '',
         }
     }
 
