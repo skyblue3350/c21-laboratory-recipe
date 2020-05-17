@@ -67,6 +67,14 @@ export default class IndexPage extends React.Component<Props, State> {
         }
     }
 
+    componentWillReceiveProps(nextProps: Props) {
+        const query = queryString.parse(nextProps.location.search) as {filter: filter, keyword: string}
+        this.setState({
+            filter: this.filter.some((item) => item.value === query.filter)? query.filter : 'all',
+            keyword: query.keyword || '',
+        })
+    }
+
     handleClick(event: React.MouseEvent, accordion: AccordionTitleProps) {
         const index = parseInt(accordion.index!.toString())
         this.setState({
@@ -87,8 +95,6 @@ export default class IndexPage extends React.Component<Props, State> {
         this.setState({
             open: -1,
             keyword: data.value
-        }, () => {
-            this.props.history.push(`?filter=${this.state.filter}&keyword=${this.state.keyword}`)
         })
     }
 
@@ -131,6 +137,12 @@ export default class IndexPage extends React.Component<Props, State> {
                             placeholder='レシピ名/No/素材名'
                             value={this.state.keyword}
                             onChange={(e, d) => this.changeKeyword(d)}
+                            onBlur={() => {
+                                const query = `?filter=${this.state.filter}&keyword=${this.state.keyword}`
+                                if (query !== this.props.location.search) {
+                                    this.props.history.push(`?filter=${this.state.filter}&keyword=${this.state.keyword}`)
+                                }
+                            }}
                             icon='search'
                             iconPosition='left'
                             action={
