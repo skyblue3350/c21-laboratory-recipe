@@ -65,6 +65,7 @@ export default class IndexPage extends React.Component<Props, State> {
             filter: this.filter.some((item) => item.value === query.filter)? query.filter : 'all',
             keyword: query.keyword || '',
         }
+        document.title = `C21 Laboratory Recipes | ${this.state.keyword}`
     }
 
     componentWillReceiveProps(nextProps: Props) {
@@ -141,6 +142,7 @@ export default class IndexPage extends React.Component<Props, State> {
                                 const query = `?filter=${this.state.filter}&keyword=${this.state.keyword}`
                                 if (query !== this.props.location.search) {
                                     this.props.history.push(`?filter=${this.state.filter}&keyword=${this.state.keyword}`)
+                                    document.title = `C21 Laboratory Recipes | ${this.state.keyword}`
                                 }
                             }}
                             icon='search'
