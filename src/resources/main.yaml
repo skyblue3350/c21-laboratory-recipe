@@ -2936,6 +2936,57 @@
       required: 5
       safety: true
 
+- name: ビームガトリング★
+  no: 79025
+  rank: 兵長
+  recipe:
+    - item: ビームガトリング
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 木
+      required: 2
+      safety: true
+
+- name: ギガンティックキャノン★
+  no: 79026
+  rank: 兵長
+  recipe:
+    - item: ギガンティックキャノン
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 水
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 月
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 4
+      safety: true
+
+- name: トライエレキランチャー★
+  no: 79027
+  rank: 兵長
+  recipe:
+    - item: トライエレキランチャー
+      required: 1
+      safety: true
+    - item: 古代結晶の秘石 日
+      required: 2
+      safety: true
+    - item: 古代結晶の秘石 金
+      required: 4
+      safety: true
+    - item: 古代結晶の秘石 火
+      required: 2
+      safety: true
+
 - name: EXツラースショット
   no: 79901
   rank: 中尉
