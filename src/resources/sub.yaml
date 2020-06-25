@@ -534,7 +534,7 @@
       safety: true
 
 - name: バスターソード★
-  no: 80442
+  no: 80443
   rank: 軍曹
   recipe:
     - item: バスターソード
