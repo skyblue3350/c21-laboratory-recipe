@@ -550,7 +550,7 @@
       required: 2
       safety: true
     - item: 【コア】堕落したコア
-      required: 
+      required: 1
       safety: true
 
 - name: テンタクルウィップ
@@ -618,7 +618,7 @@
       required: 1
       safety: true
     - item: ダラビスパーブ
-      required: 
+      required: 5
       safety: true
 
 - name: エンドガラティーン
