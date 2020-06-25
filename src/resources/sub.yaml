@@ -8,3 +8,661 @@
     - item: 狭間の欠片・デゴ
       required: 100
       safety: false
+
+- name: ゴールドショートソード
+  no: 80001
+  rank: ルーキー
+  recipe:
+    - item: シルバーショートソード
+      required: 10
+      safety: true
+
+- name: シルバーショートソード
+  no: 80002
+  rank: ルーキー
+  recipe:
+    - item: ブロンズショートソード
+      required: 15
+      safety: true
+
+- name: EXソニックブレード
+  no: 80005
+  rank: 兵長
+  recipe:
+    - item: フィジカルのコア
+      required: 4
+      safety: false
+    - item: ビームのコア
+      required: 4
+      safety: false
+    - item: エレクトリックのコア
+      required: 4
+      safety: false
+    - item: フレイムのコア
+      required: 7
+      safety: false
+    - item: 番人のコア
+      required: 7
+      safety: false
+    - item: ブタークのコア
+      required: 25
+      safety: false
+    - item: アルモスの砂
+      required: 30
+      safety: false
+    - item: ブタークBD2
+      required: 5
+      safety: false
+
+- name: ゴールドハンドアクス
+  no: 80011
+  rank: ルーキー
+  recipe:
+    - item: シルバーハンドアクス
+      required: 10
+      safety: true
+
+- name: シルバーハンドアクス
+  no: 80012
+  rank: ルーキー
+  recipe:
+    - item: ブロンズハンドアクス
+      required: 15
+      safety: true
+
+- name: ゴールドレイピア
+  no: 80021
+  rank: ルーキー
+  recipe:
+    - item: シルバーレイピア
+      required: 10
+      safety: true
+
+- name: シルバーレイピア
+  no: 80022
+  rank: ルーキー
+  recipe:
+    - item: ブロンズレイピア
+      required: 15
+      safety: true
+
+- name: ゴールドカッター
+  no: 80031
+  rank: ルーキー
+  recipe:
+    - item: シルバーカッター
+      required: 10
+      safety: true
+
+- name: シルバーカッター
+  no: 80032
+  rank: ルーキー
+  recipe:
+    - item: ブロンズカッター
+      required: 15
+      safety: true
+
+- name: ゴールドクラブ
+  no: 80041
+  rank: ルーキー
+  recipe:
+    - item: シルバークラブ
+      required: 10
+      safety: true
+
+- name: シルバークラブ
+  no: 80042
+  rank: ルーキー
+  recipe:
+    - item: ブロンズクラブ
+      required: 15
+      safety: true
+
+- name: クレナイエッジ
+  no: 80220
+  rank: 少尉
+  recipe:
+    - item: ガスターの砂
+      required: 3
+      safety: false
+    - item: 黄昏の破片
+      required: 3
+      safety: false
+    - item: 黄昏の装甲
+      required: 3
+      safety: false
+    - item: ガシ・コズミック金属
+      required: 2
+      safety: false
+    - item: ブローフレームM
+      required: 1
+      safety: false
+
+- name: カグノタチ
+  no: 80221
+  rank: 少尉
+  recipe:
+    - item: クレナイエッジ
+      required: 1
+      safety: false
+    - item: ガスタライト
+      required: 8
+      safety: false
+    - item: 黄昏の回路
+      required: 8
+      safety: false
+    - item: 黄昏の装甲
+      required: 5
+      safety: false
+    - item: ドウジの剣
+      required: 5
+      safety: false
+    - item: シュテンドーHD
+      required: 2
+      safety: false
+    - item: シュテンドーBS
+      required: 2
+      safety: false
+
+- name: ヒノカグノタチ
+  no: 80222
+  rank: 少尉
+  recipe:
+    - item: カグノタチ
+      required: 1
+      safety: true
+    - item: デルチートモーター
+      required: 5
+      safety: false
+    - item: サバスクリスタル
+      required: 5
+      safety: false
+    - item: 皇帝の大宝玉
+      required: 5
+      safety: false
+    - item: フェアライトチップ
+      required: 10
+      safety: false
+    - item: フェアライトマズル
+      required: 12
+      safety: false
+    - item: 燃えたぎるコイン
+      required: 5
+      safety: false
+
+- name: フレンジーチェーンソー【星辰】
+  no: 80235
+  rank: 少尉
+  recipe:
+    - item: フレンジーチェーンソー
+      required: 1
+      safety: true
+    - item: VDクリスタル1β
+      required: 2
+      safety: false
+    - item: VDクリスタル2β
+      required: 1
+      safety: false
+    - item: VDクリスタル3β
+      required: 1
+      safety: false
+
+- name: アトラディション
+  no: 80410
+  rank: 上等兵
+  recipe:
+    - item: アヌビプレート
+      required: 11
+      safety: false
+    - item: アヌビシャフト
+      required: 2
+      safety: false
+    - item: アヌビファング
+      required: 2
+      safety: false
+    - item: イントストーン
+      required: 2
+      safety: false
+    - item: ブローフレームM
+      required: 1
+      safety: false
+
+- name: ヴォルディソード
+  no: 80413
+  rank: 少尉
+  recipe:
+    - item: アクイーア・エアーズのコア
+      required: 6
+      safety: false
+    - item: カオスカイザーのコア
+      required: 6
+      safety: false
+    - item: ブタークのコア
+      required: 50
+      safety: false
+    - item: アルモスライト
+      required: 50
+      safety: false
+    - item: アルモスの砂
+      required: 50
+      safety: false
+    - item: ブタークBD2
+      required: 5
+      safety: false
+
+- name: ジュエリックソード
+  no: 80414
+  rank: 少尉
+  recipe:
+    - item: ヴァルディソード
+      required: 1
+      safety: true
+    - item: ボーンクリスタル
+      required: 2
+      safety: true
+    - item: 化石のオイル
+      required: 2
+      safety: true
+    - item: センチネルAI
+      required: 1
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 1
+      safety: true
+
+- name: アトラデス
+  no: 80415
+  rank: 上等兵
+  recipe:
+    - item: アトラディション
+      required: 1
+      safety: false
+    - item: アヌビシャフト
+      required: 5
+      safety: false
+    - item: アヌビファング
+      required: 4
+      safety: false
+    - item: イントストーン
+      required: 2
+      safety: false
+    - item: バハネスのツノ
+      required: 1
+      safety: false
+
+- name: アトラデストロイ
+  no: 80416
+  rank: 中尉
+  recipe:
+    - item: アトラデス
+      required: 1
+      safety: true
+    - item: アヌビファング
+      required: 5
+      safety: false
+    - item: 汚染された爪
+      required: 6
+      safety: false
+    - item: 陰惨な邪眼
+      required: 4
+      safety: false
+    - item: デルクリスタル
+      required: 6
+      safety: false
+
+- name: アトラディメンション
+  no: 80417
+  rank: 中尉
+  recipe:
+    - item: アトラデストロイ
+      required: 1
+      safety: true
+    - item: VDクリスタル1α
+      required: 10
+      safety: false
+    - item: VDクリスタル2α
+      required: 30
+      safety: false
+    - item: VDクリスタル3α
+      required: 40
+      safety: false
+
+- name: BSLスラッシャー
+  no: 80420
+  rank: 少尉
+  recipe:
+    - item: ブローフレームL
+      required: 1
+      safety: true
+    - item: リーグフェザー・焔
+      required: 6
+      safety: true
+    - item: リーグフェザー・集
+      required: 6
+      safety: true
+    - item: リーグフェザー・得
+      required: 6
+      safety: true
+    - item: プリズムトークン
+      required: 1
+      safety: true
+
+- name: BSLパニッシャー
+  no: 80421
+  rank: 少尉
+  recipe:
+    - item: BSLスラッシャー
+      required: 1
+      safety: true
+    - item: ブローフレームL
+      required: 5
+      safety: true
+    - item: リーグフェザー・焔
+      required: 12
+      safety: true
+    - item: リーグフェザー・集
+      required: 12
+      safety: true
+    - item: リーグフェザー・得
+      required: 12
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 6
+      safety: true
+    - item: プリズムトークン
+      required: 1
+      safety: true
+
+- name: カノープスブレード
+  no: 80425
+  rank: 上等兵
+  recipe:
+    - item: カノプスタービン
+      required: 5
+      safety: false
+    - item: カノプスクリスタル
+      required: 5
+      safety: false
+    - item: アヌビファング
+      required: 5
+      safety: false
+    - item: 皇帝の大宝玉
+      required: 5
+      safety: false
+    - item: 古代の結晶体
+      required: 5
+      safety: false
+    - item: アストラルキューブ
+      required: 2
+      safety: false
+
+- name: ザウラーファング
+  no: 80430
+  rank: 上等兵
+  recipe:
+    - item: 5th記念硬貨
+      required: 2
+      safety: false
+    - item: ドレザウラーの装甲
+      required: 3
+      safety: true
+    - item: スコッピオの装甲
+      required: 3
+      safety: true
+
+- name: EXザウラーファング
+  no: 80431
+  rank: 中尉
+  recipe:
+    - item: ザウラーファング
+      required: 1
+      safety: false
+    - item: EXビームブレード
+      required: 1
+      safety: true
+    - item: フライトサーキット
+      required: 40
+      safety: true
+    - item: 灼熱竜のコア
+      required: 3
+      safety: true
+    - item: ブッツラスの装甲
+      required: 10
+      safety: false
+    - item: ピンクブレード
+      required: 2
+      safety: true
+    - item: バハネスのツノ
+      required: 1
+      safety: true
+
+- name: EXザウラーファング
+  no: 80432
+  rank: 中尉
+  recipe:
+    - item: ザウラーファング
+      required: 1
+      safety: false
+    - item: EXビームブレード
+      required: 1
+      safety: true
+    - item: フェザーチップ・焔
+      required: 4
+      safety: true
+    - item: 灼熱竜のコア
+      required: 3
+      safety: true
+    - item: ブッツラスの装甲
+      required: 10
+      safety: false
+    - item: ピンクブレード
+      required: 2
+      safety: true
+    - item: イントストーン
+      required: 2
+      safety: true
+
+- name: EXザウラーファング★
+  no: 80433
+  rank: 中尉
+  recipe:
+    - item: EXザウラーファング
+      required: 1
+      safety: true
+    - item: ボーンクリスタル
+      required: 2
+      safety: true
+    - item: 化石のオイル
+      required: 1
+      safety: true
+    - item: ギガンアダマス
+      required: 1
+      safety: true
+    - item: ギガンプレート
+      required: 3
+      safety: true
+    - item: 制覇の証・フルビ
+      required: 8
+      safety: true
+
+- name: エントゥソード
+  no: 80440
+  rank: 軍曹
+  recipe:
+    - item: 深緑の欠片
+      required: 12
+      safety: true
+    - item: ソーラー装甲
+      required: 5
+      safety: true
+    - item: ダイヤモンド
+      required: 5
+      safety: true
+
+- name: エントゥソード★
+  no: 80441
+  rank: 軍曹
+  recipe:
+    - item: エントゥソード
+      required: 1
+      safety: false
+    - item: エントゥクリスタル
+      required: 3
+      safety: true
+    - item: 大樹のオイル
+      required: 5
+      safety: true
+    - item: ガドラのキバ
+      required: 2
+      safety: true
+    - item: ダイヤモンド
+      required: 20
+      safety: true
+
+- name: バスターソード
+  no: 80442
+  rank: 軍曹
+  recipe:
+    - item: 琥珀の欠片
+      required: 20
+      safety: true
+    - item: 防塵装甲
+      required: 8
+      safety: true
+    - item: 黄金のコイン
+      required: 1
+      safety: true
+
+- name: バスターソード★
+  no: 80442
+  rank: 軍曹
+  recipe:
+    - item: バスターソード
+      required: 1
+      safety: true
+    - item: サンドクリスタル
+      required: 3
+      safety: true
+    - item: 仙人掌のオイル
+      required: 2
+      safety: true
+    - item: アヌビファング
+      required: 2
+      safety: true
+    - item: 【コア】堕落したコア
+      required: 
+      safety: true
+
+- name: テンタクルウィップ
+  no: 80444
+  rank: 軍曹
+  recipe:
+    - item: 紫石の欠片
+      required: 35
+      safety: true
+    - item: 鋼の装甲
+      required: 10
+      safety: true
+    - item: 岩のコイン
+      required: 1
+      safety: true
+
+- name: テンタクルウィップ★
+  no: 80445
+  rank: 軍曹
+  recipe:
+    - item: テンタクルウィップ
+      required: 1
+      safety: true
+    - item: テンタクリスタル
+      required: 2
+      safety: true
+    - item: ヘドロのオイル
+      required: 3
+      safety: true
+    - item: アヌビファング
+      required: 3
+      safety: true
+    - item: 陰惨な邪眼
+      required: 1
+      safety: true
+
+- name: アイスエッジ
+  no: 80446
+  rank: 軍曹
+  recipe:
+    - item: 氷雪の欠片
+      required: 35
+      safety: true
+    - item: 耐寒装甲
+      required: 12
+      safety: true
+    - item: 凍りついたコイン
+      required: 1
+      safety: true
+
+- name: アイスエッジ★
+  no: 80447
+  rank: 軍曹
+  recipe:
+    - item: アイスエッジ
+      required: 1
+      safety: true
+    - item: アイスクリスタル
+      required: 3
+      safety: true
+    - item: 不凍のオイル
+      required: 3
+      safety: true
+    - item: アグルナアイ
+      required: 1
+      safety: true
+    - item: ダラビスパーブ
+      required: 
+      safety: true
+
+- name: エンドガラティーン
+  no: 80450
+  rank: 軍曹
+  recipe:
+    - item: ジーウェイン・アーブAM5
+      required: 1
+      safety: true
+
+- name: エンドガラティーン★
+  no: 80451
+  rank: 軍曹
+  recipe:
+    - item: エンドガラティーン
+      required: 2
+      safety: true
+
+- name: エンドガラティーン★
+  no: 80452
+  rank: 軍曹
+  recipe:
+    - item: エンドガラティーン
+      required: 1
+      safety: true
+    - item: レギオン・ブレード★
+      required: 10
+      safety: true
+
+- name: ネオゼウネブランド★
+  no: 80453
+  rank: 軍曹
+  recipe:
+    - item: ネオゼウネブランド
+      required: 2
+      safety: true
+
+- name: ネオゼウネブランド★
+  no: 80454
+  rank: 軍曹
+  recipe:
+    - item: ネオゼウネブランド
+      required: 1
+      safety: true
+    - item: レーヴァ・ブレード★
+      required: 10
+      safety: true
